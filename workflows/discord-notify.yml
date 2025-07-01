@@ -18,7 +18,6 @@ jobs:
         with:
           # secure your webhook URL in Secrets
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
-
           # simple message content
           content: |
             **${{ github.event_name }}** in `{{ github.repository }}`
