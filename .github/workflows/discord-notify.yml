@@ -20,7 +20,7 @@ jobs:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
           # simple message content
           content:
-            🚀 **${{ github.event_name | upper }}** triggered in `${{ github.repository }}`
+            🚀 **${{ github.event_name }}** triggered in `${{ github.repository }}`
             **🔀 Branch:** `${{ github.ref_name }}`
             **👤 Actor:** `${{ github.actor }}`
             **🟢 Status:** `Build success`
