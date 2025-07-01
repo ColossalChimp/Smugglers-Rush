@@ -20,9 +20,10 @@ jobs:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
           # simple message content
           content: |
-            **${{ github.event_name }}** in `{{ github.repository }}`
-            • Branch: `{{ github.ref_name }}`
-            • Actor: ${{ github.actor }}
+            🚀 **${{ github.event_name | upper }}** triggered in `${{ github.repository }}`
+            **🔀 Branch:** `${{ github.ref_name }}`
+            **👤 Actor:** `${{ github.actor }}`
+            **🟢 Status:** `Build success`
 
           # optional: override the username & avatar shown in Discord
           username: 'GitHub Actions Bot'
