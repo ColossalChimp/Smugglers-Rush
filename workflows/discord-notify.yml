@@ -17,8 +17,7 @@ jobs:
         uses: tsickert/discord-webhook@v7.0.0
         with:
           # secure your webhook URL in Secrets
-          webhook-url: ${{ secrets.https://discord.com/api/webhooks/1371670589600825406/GWOX77re_zO1sqqAXQMurYuxjwFZbUXyXxSE__tP6HgiuWutyfAzm4WCjmzwCsTD_Tyh }}
-
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
           # simple message content
           content: |
             **${{ github.event_name }}** in `{{ github.repository }}`
