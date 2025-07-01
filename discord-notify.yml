@@ -1,0 +1,37 @@
+name: 🚀 Discord Notifications
+
+on:
+  push:
+    branches: [ main, safety, dev-dDaniels ]
+  pull_request:
+    types: [ opened, reopened, closed, merged ]
+    branches: [ main, safety, dev-dDaniels ]
+  release:
+    types: [ published ]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord notification
+        uses: tsickert/discord-webhook@v7.0.0
+        with:
+          # secure your webhook URL in Secrets
+          webhook-url: ${{ secrets.https://discord.com/api/webhooks/1371670589600825406/GWOX77re_zO1sqqAXQMurYuxjwFZbUXyXxSE__tP6HgiuWutyfAzm4WCjmzwCsTD_Tyh }}
+
+          # simple message content
+          content: |
+            **${{ github.event_name }}** in `{{ github.repository }}`
+            • Branch: `{{ github.ref_name }}`
+            • Actor: ${{ github.actor }}
+
+          # optional: override the username & avatar shown in Discord
+          username: 'GitHub Actions Bot'
+          avatar-url: 'https://i.imgur.com/4M34hi2.png'
+
+          # optional: use an embed instead of plain text
+          embed-title: 'Build ${{ job.status }} – ${{ github.workflow }}'
+          embed-description: |
+            • **Commit**: `${{ github.sha }}`
+            • **Trigger**: `${{ github.event_name }}`
+          embed-color: 3066993  # decimal color code
