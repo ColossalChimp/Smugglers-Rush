@@ -10,6 +10,7 @@ Smuggler's Rush is a love letter to the legendary 2000 and 2001 titles *Smuggler
 ## Table of Contents
 
 * [About](#about)
+* [Concept & Scope](#concept-&-scope)
 * [Features (Planned)](#features-planned)
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
@@ -19,6 +20,13 @@ Smuggler's Rush is a love letter to the legendary 2000 and 2001 titles *Smuggler
 
 * **Original Inspiration**: *Smuggler's Run* (2000) & *Smuggler's Run: Hostile Territory* (2001)
 * **Goal**: Capture the high-speed, adrenaline‑fueled races across rugged terrain, reimagined with a low‑poly art style, refined physics, and updated level design.
+
+## Concept & Scope
+* Smuggler's Rush reimagines the classic off-road smuggling franchise with low-poly visuals and modern enhancements:
+* Narrative-driven missions with progression systems
+* Interactive safe zones for upgrades, side missions, and story beats
+* Global leaderboards for competitive replayability
+* Four expansive maps culminating in unique final challenges
 
 ## Features (Planned)
 
