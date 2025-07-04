@@ -51,7 +51,7 @@ Smuggler's Rush is a love letter to the legendary 2000 and 2001 titles *Smuggler
 
 We use Trello to organize feature development and team tasks.
 
-🗂 [Smuggler’s Rush Pre-Alpha Planning Board](https://trello.com/your-trello-link-here)
+🗂 [Smuggler’s Rush Pre-Alpha Planning Board](https://trello.com/b/wCbtFe6M/pre-alpha-planning)
 
 ## Game Design Document
 
