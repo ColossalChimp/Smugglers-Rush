@@ -39,6 +39,32 @@ Smuggler's Rush is a love letter to the legendary 2000 and 2001 titles *Smuggler
 
 ## Getting Started
 
+## Project Status
+
+🚧 Pre-Alpha — Core systems are being scoped and developed. Refer to the [Trello Board](https://trello.com/your-trello-link-here) for real-time progress.
+
+✅ Concept & Scope complete  
+✅ Trello board with feature breakdowns  
+🔜 GDD in progress  
+
+## Planning & Roadmap
+
+We use Trello to organize feature development and team tasks.
+
+🗂 [Smuggler’s Rush Pre-Alpha Planning Board](https://trello.com/your-trello-link-here)
+
+## Game Design Document
+
+We’re currently drafting our full Game Design Document (GDD), which will define gameplay systems, mechanics, UI, enemy behavior, maps, and story design.
+
+📄 GDD Coming Soon...
+
+## Playtesting
+
+Internal builds will be made available for feedback in future stages.
+
+🛠 Pre-Alpha → Alpha → Beta → Release
+
 ### Prerequisites
 
 * Unity 2021.3 LTS or later
@@ -67,6 +93,13 @@ Smuggler's Rush is a love letter to the legendary 2000 and 2001 titles *Smuggler
 5. Open a Pull Request against ('safety') following template provided
 
 Please follow the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
+
+## Core Team
+
+- David Daniels — Lead Developer / Game Designer
+- David Daniels — UI/UX Designer
+- David Daniels — Programmer
+- David Daniels — Level Designer
 
 ## License
 
