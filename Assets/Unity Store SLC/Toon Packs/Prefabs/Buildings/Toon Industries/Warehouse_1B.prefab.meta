@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dee3ffb5e532b47fca76f0b8ebdb49a0
+labels:
+- building
+- industrial
+- warehouse
+timeCreated: 1522433947
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Buildings/Warehouse_1B.prefab
+  uploadId: 482381

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1dabc4d42bc3e4c45b7d41a6a8a63a67
+labels:
+- debris
+timeCreated: 1522274558
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Debris_Corner_1B.prefab
+  uploadId: 482381

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: be8b024f9fea5459d8111a25440fb02b
+labels:
+- construction
+- crane
+timeCreated: 1522274531
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Crane_1B.prefab
+  uploadId: 482381

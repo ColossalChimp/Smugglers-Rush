@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5755767b5bba348f0b48bb9bad87f853
+labels:
+- metal
+- pipe
+timeCreated: 1522420358
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Metal_Pipe_1A.prefab
+  uploadId: 482381

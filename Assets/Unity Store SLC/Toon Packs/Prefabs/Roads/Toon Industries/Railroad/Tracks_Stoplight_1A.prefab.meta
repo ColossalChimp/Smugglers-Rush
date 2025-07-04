@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6fa04f31df56848b1834ef54485f77e7
+labels:
+- crossing
+- railroad
+- stoplight
+timeCreated: 1522432714
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Railroad/Tracks_Stoplight_1A.prefab
+  uploadId: 482381

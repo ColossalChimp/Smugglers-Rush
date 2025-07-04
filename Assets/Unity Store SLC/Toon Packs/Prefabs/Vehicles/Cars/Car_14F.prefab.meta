@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 377a602102d1a4ad4b7ae32f429387f5
+labels:
+- Cabriolet
+- Convertible
+- Coupe
+timeCreated: 1524732547
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_14F.prefab
+  uploadId: 402712

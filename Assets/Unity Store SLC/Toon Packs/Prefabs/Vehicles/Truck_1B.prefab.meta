@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a157a178b4cb238439895b024efa40c8
+labels:
+- Cabin
+- Tow
+- Utility
+- Transport
+- Cargo
+- Trailer
+- Vehicle
+- Land
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54560
+  packageName: Complete Vehicle Pack V2
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack V2/Prefabs/Truck_1B.prefab
+  uploadId: 354767

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 58f92b9802d22401fa0f5b13ed8ca85b
+labels:
+- Hot-rod
+- car
+- muscle
+- racing
+- vehicle
+timeCreated: 1489400087
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_5A.prefab
+  uploadId: 402712

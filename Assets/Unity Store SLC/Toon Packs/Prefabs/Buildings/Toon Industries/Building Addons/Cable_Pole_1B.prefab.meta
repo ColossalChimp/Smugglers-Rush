@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5195d13825c7c47d7ab1c331cbf80ef0
+labels:
+- accesory
+- addon
+- cable
+- electric
+- pole
+timeCreated: 1522272538
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Building Addons/Cable_Pole_1B.prefab
+  uploadId: 482381

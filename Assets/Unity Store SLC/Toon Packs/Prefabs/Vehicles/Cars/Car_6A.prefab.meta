@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 91e561d3b109c48acad86e04a018b999
+labels:
+- car
+- coupe
+- muscle
+- sportscar
+- vehicle
+timeCreated: 1489400387
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_6A.prefab
+  uploadId: 402712

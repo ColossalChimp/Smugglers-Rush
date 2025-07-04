@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a42a73574d5f340918bef4f05d978a9a
+labels:
+- Car
+- Vehicle
+- Muscle
+- Sirens
+- Emergency
+- Police
+- PoliceCar
+- Interceptor
+timeCreated: 1449485243
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/Interceptor_1A.prefab
+  uploadId: 354765

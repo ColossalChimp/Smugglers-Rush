@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bb70af76540e34411a9cc66e86cfc119
+labels:
+- bench
+- tree
+timeCreated: 1522267634
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Bench_2E.prefab
+  uploadId: 482381

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4e6966cdaa490445a9568ba3a1976cc5
+labels:
+- extinguisher
+- fire
+- object
+- prop
+timeCreated: 1489402382
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Props/Extinguisher_11A.prefab
+  uploadId: 402712

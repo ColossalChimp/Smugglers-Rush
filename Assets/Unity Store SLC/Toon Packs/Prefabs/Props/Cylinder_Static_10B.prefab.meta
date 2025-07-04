@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ad37b96258a3248f99d8d98c04ec0228
+labels:
+- concrete
+- construction
+- cylinder
+- object
+- pipe
+- prop
+timeCreated: 1489402413
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Props/Cylinder_Static_10B.prefab
+  uploadId: 402712

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0eb1aef608657d488bc18bf4bbcd7ea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187803
+  packageName: Ash Vehicle Physics
+  packageVersion: 3.3
+  assetPath: Assets/Ash Assets/Ash Vehicle Physics/Scene/Demo/demo.lighting
+  uploadId: 721655

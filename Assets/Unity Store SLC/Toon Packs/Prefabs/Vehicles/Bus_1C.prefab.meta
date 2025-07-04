@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f5430648e55e249668ee58addbd63db3
+labels:
+- LongVehicle
+- Bus
+- Transport
+- Long
+- Car
+- Vehicle
+timeCreated: 1449484624
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/Bus_1C.prefab
+  uploadId: 354765

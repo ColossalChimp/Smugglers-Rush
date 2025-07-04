@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e21eb2023d2364176bed9c15b3e4bbee
+labels:
+- car
+- racing
+- rally
+- sportscar
+- vehicle
+timeCreated: 1489399568
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_1B.prefab
+  uploadId: 402712

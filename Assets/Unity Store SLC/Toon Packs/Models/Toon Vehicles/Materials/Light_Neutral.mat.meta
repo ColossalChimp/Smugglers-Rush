@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f0e5faacc5fc4dcbb085e9b279e9881
+timeCreated: 1491432324
+licenseType: Free
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Models/Materials/Light_Neutral.mat
+  uploadId: 402712

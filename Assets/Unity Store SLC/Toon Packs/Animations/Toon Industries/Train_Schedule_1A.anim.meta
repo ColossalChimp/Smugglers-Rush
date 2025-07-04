@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1cff7b177036b4a75bdd3b73afd027d6
+timeCreated: 1520796162
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Animations/Train_Schedule_1A.anim
+  uploadId: 482381

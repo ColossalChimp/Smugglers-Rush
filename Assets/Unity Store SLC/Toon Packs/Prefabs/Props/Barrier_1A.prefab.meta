@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a613cdcbb914345d1a28ad19fa99357f
+labels:
+- barrier
+- concrete
+timeCreated: 1522267560
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Barrier_1A.prefab
+  uploadId: 482381

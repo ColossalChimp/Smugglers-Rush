@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 963f5999d66db4785bbde4acc2469467
+labels:
+- construction
+- metal
+- object
+- pipe
+- prop
+timeCreated: 1489402407
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Props/Pipe_10A.prefab
+  uploadId: 402712

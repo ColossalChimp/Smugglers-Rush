@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3493db32b064e4a2c868404a8634996a
+labels:
+- flammable
+- fuel
+- tank
+timeCreated: 1522432559
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Pipes/Tank_3B.prefab
+  uploadId: 482381

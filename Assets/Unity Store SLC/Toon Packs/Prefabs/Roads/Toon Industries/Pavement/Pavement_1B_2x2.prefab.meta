@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a6a05ab25889d43d5aa579f40ba76eef
+labels:
+- concrete
+- pavement
+timeCreated: 1522421376
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Pavement/Pavement_1B_2x2.prefab
+  uploadId: 482381

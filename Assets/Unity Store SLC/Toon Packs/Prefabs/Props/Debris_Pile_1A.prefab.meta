@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a5f8c3bb0a3104b2d955a8d7dcf67814
+labels:
+- debris
+timeCreated: 1522274562
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Debris_Pile_1A.prefab
+  uploadId: 482381

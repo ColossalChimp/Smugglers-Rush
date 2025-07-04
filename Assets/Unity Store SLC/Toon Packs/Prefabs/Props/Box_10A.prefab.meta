@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 044b2dddda18c47528e7e301c22277f5
+labels:
+- box
+- object
+- prop
+- wood
+timeCreated: 1489402395
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Props/Box_10A.prefab
+  uploadId: 402712

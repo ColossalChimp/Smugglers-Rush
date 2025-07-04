@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dae2c70c264d742d9b9c8e34abad4156
+labels:
+- crossing
+- railroad
+timeCreated: 1522431330
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Railroad/Railroad_Crossing_1C.prefab
+  uploadId: 482381

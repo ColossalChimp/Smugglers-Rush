@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3e74c6c85a603449b992290d43905d8a
+labels:
+- accesory
+- addon
+- box
+- electric
+- power
+timeCreated: 1522431226
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Building Addons/Power_Box_1B.prefab
+  uploadId: 482381

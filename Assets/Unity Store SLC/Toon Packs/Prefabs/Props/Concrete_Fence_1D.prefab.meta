@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9386e9a78aef442d0b45774590376ac9
+labels:
+- concrete
+- fence
+timeCreated: 1522273562
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Concrete_Fence_1D.prefab
+  uploadId: 482381

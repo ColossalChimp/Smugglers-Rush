@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cb46a05305f43435ab325d0e8ae6e34d
+labels:
+- Wheels
+- Tires
+- Rims
+- Wheel
+timeCreated: 1449501396
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/WheelDouble.prefab
+  uploadId: 354765

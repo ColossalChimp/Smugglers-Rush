@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5e096f9ed37414110afed56c8ab1a466
+labels:
+- cab
+- car
+- sedan
+- taxi
+- vehicle
+timeCreated: 1489399781
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_3A.prefab
+  uploadId: 402712

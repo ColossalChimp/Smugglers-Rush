@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fc82613eed76af84bb165728df10f6de
+labels:
+- Van
+- Utility
+- Land
+- Vehicle
+- Cargo
+- Transport
+- News
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54560
+  packageName: Complete Vehicle Pack V2
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack V2/Prefabs/Van_2B.prefab
+  uploadId: 354767

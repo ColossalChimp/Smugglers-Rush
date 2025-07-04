@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 051a7a8dc1f6840e58bde511934a09fd
+labels:
+- railroad
+- tracks
+- train
+timeCreated: 1522433142
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Railroad/Train_Tracks_Suspended_1D.prefab
+  uploadId: 482381

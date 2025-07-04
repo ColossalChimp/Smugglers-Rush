@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1fddbe5e5ff37b644afec042441820da
+timeCreated: 1521577199
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Animations/Main Camera_Scene_1A.controller
+  uploadId: 482381

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 51553ae337d99434bae7ecd2cc298386
+labels:
+- concrete
+- cylinder
+timeCreated: 1522273529
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Concrete_Cylinder_1B.prefab
+  uploadId: 482381

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3753272218d814070ab9e9792613d7fe
+labels:
+- cargo
+- construction
+- truck
+- vehicle
+timeCreated: 1489401835
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_12B.prefab
+  uploadId: 402712

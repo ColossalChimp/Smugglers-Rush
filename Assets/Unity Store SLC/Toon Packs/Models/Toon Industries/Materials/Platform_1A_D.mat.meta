@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f6b239a8286ab4685a8b1011ac15a0ae
+timeCreated: 1521809552
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Models/Materials/Platform_1A_D.mat
+  uploadId: 482381

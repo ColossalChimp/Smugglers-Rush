@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5e1eb7c57bee248a5a47ba76e52c6834
+labels:
+- fence
+- metal
+timeCreated: 1522419968
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Metal_Fence_1D.prefab
+  uploadId: 482381

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f448fc4ae8c7c450ca7c8490b3d77799
+labels:
+- bench
+- statue
+timeCreated: 1522267662
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Bench_2F.prefab
+  uploadId: 482381

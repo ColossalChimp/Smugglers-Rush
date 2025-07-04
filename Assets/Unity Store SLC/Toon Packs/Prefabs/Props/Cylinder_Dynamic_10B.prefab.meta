@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7f155642b1c7d4a0795a349ff5e3cb98
+labels:
+- concrete
+- construction
+- cylinder
+- object
+- pipe
+- prop
+timeCreated: 1489402435
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Props/Cylinder_Dynamic_10B.prefab
+  uploadId: 402712

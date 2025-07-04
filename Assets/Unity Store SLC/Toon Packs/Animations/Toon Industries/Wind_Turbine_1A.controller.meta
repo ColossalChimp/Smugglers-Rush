@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44f7fe3b4e97a95439454ab68ba29b56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Animations/Wind_Turbine_1A.controller
+  uploadId: 482381

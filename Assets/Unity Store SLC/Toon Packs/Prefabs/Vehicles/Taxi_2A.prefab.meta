@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9d8d4aaa12af9c24e896084fbf7bfe07
+labels:
+- Cab
+- Taxi
+- Utility
+- Passenger
+- Land
+- Vehicle
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54560
+  packageName: Complete Vehicle Pack V2
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack V2/Prefabs/Taxi_2A.prefab
+  uploadId: 354767

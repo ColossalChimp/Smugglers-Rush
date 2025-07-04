@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d253a37b80bf841b4bf3190c656d5a8c
+labels:
+- barrel
+- construction
+- object
+- prop
+timeCreated: 1489402417
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Props/Barrel_12A.prefab
+  uploadId: 402712

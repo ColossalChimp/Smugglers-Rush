@@ -1,0 +1,4 @@
+repository "Smugglers Rush/Smugglers Rush@2475854739401@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8f04a8b5b69b444d3a9d312082486cc2
+labels:
+- railroad
+- tracks
+- train
+timeCreated: 1522433111
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Railroad/Train_Tracks_1A.prefab
+  uploadId: 482381
