@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5630a6959dbd74cbca8c9210b941eff0
+labels:
+- Car
+- Vehicle
+- Taxi
+- Cab
+- Advert
+- Transport
+timeCreated: 1449484417
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/Taxi_1A.prefab
+  uploadId: 354765

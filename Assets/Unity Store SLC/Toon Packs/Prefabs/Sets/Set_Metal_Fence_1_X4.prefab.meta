@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f33bb0e95cd8a4c2ab641a28fc39a37c
+labels:
+- set
+timeCreated: 1522419919
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Sets/Set_Metal_Fence_1_X4.prefab
+  uploadId: 482381

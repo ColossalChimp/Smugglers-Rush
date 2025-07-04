@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5f7fb1fc18be745dcb3c6ae1464c8876
+labels:
+- pipe
+timeCreated: 1522276446
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Pipes/Giant_Pipe_Support_1B.prefab
+  uploadId: 482381

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 536e7da3f15024637922378ce548a182
+labels:
+- box
+- object
+- pack
+- prop
+timeCreated: 1489402327
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Props/Pack_10A.prefab
+  uploadId: 402712

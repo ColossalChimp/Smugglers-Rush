@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b250b39ed4095b14fb10745544113bad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Animations/Garage_1A.controller
+  uploadId: 482381

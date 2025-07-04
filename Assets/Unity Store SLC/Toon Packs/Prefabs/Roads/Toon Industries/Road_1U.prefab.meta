@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 86ba33e173f134ad5ba435bffa03b74c
+labels:
+- road
+- street
+timeCreated: 1522431707
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Roads/Road_1U.prefab
+  uploadId: 482381

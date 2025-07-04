@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ff19ae09196bb214c81d94944028ff3a
+labels:
+- Offroad
+- Utility
+- SUV
+- Passenger
+- Limousine
+- Family
+- Wagon
+- Land
+- Vehicle
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54560
+  packageName: Complete Vehicle Pack V2
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack V2/Prefabs/SUV_1B.prefab
+  uploadId: 354767

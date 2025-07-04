@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c17c8e856a2574481b15b4a5bfb33ec1
+labels:
+- Car
+- Vehicle
+- Coupe
+- SportsCar
+- Muscle
+- Aerodynamic
+- Supercar
+- Hypercar
+- Supersport
+timeCreated: 1449450527
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/Supersport_1A.prefab
+  uploadId: 354765

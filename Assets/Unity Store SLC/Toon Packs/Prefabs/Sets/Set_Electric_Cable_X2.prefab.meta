@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 709c59468eee0487b9c9c2fdbe8601aa
+labels:
+- set
+timeCreated: 1522274932
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Sets/Set_Electric_Cable_X2.prefab
+  uploadId: 482381

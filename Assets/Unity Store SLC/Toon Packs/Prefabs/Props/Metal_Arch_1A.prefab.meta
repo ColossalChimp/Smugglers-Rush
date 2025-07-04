@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c94c2c00c925a4d909032b5bf6aeca41
+labels:
+- arch
+- metal
+timeCreated: 1522419567
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Metal_Arch_1A.prefab
+  uploadId: 482381

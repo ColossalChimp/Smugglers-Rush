@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dfb04a83ece2d4e15a452269d3b42e52
+timeCreated: 1521477788
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Animations/Air_Vent_1A.controller
+  uploadId: 482381

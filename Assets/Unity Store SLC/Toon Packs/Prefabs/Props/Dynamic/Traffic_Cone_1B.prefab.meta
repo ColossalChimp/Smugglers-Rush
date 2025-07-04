@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 149dbb1a7425044719d2294d169cb51d
+labels:
+- traffic
+timeCreated: 1522432779
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Dynamic/Traffic_Cone_1B.prefab
+  uploadId: 482381

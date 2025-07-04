@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c7ebc016aa952483b866526479ad857c
+labels:
+- pipe
+timeCreated: 1522422082
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Pipes/Pipe_3A.prefab
+  uploadId: 482381

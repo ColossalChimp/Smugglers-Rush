@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 60df3e6aeeaea48c180bd059405f437f
+labels:
+- accesory
+- addon
+- air
+- unit
+- ventilation
+timeCreated: 1522267309
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Building Addons/Air_Vent_3A.prefab
+  uploadId: 482381

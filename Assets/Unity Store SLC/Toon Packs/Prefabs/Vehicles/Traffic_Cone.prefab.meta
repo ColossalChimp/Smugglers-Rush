@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c3056a7bef5864d80aaf8ecaab267a90
+labels:
+- Traffic
+- Cone
+- Street
+- Prop
+timeCreated: 1468601181
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/Traffic_Cone.prefab
+  uploadId: 354765

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: daf30974becad44e8984683513287d53
+labels:
+- cab
+- car
+- sedan
+- taxi
+- transport
+- vehicle
+timeCreated: 1489401149
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_8A.prefab
+  uploadId: 402712

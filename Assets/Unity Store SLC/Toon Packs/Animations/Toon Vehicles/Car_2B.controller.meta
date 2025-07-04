@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74ce634eb1a66440b90bd3adfa9f610c
+timeCreated: 1487458776
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Animations/Car_2B.controller
+  uploadId: 402712

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 77cb2f967d51c4da9b68a3566411ffad
+labels:
+- cart
+- train
+timeCreated: 1522432854
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Trains/Train_Cart_2B.prefab
+  uploadId: 482381

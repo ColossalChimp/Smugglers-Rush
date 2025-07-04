@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 94b13527335eb4bfea52ce99a0102050
+labels:
+- barrel
+timeCreated: 1522267426
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Dynamic/Barrel_2B.prefab
+  uploadId: 482381

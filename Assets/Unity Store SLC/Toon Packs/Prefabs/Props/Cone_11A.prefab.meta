@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cf2c94a8675e94a5e94eaa4212367b66
+labels:
+- cone
+- object
+- prop
+- traffic
+timeCreated: 1489402336
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Props/Cone_11A.prefab
+  uploadId: 402712

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 23a723aebb0044591bb716e2708091c5
+labels:
+- accesory
+- addon
+- reservoir
+- tank
+- water
+timeCreated: 1522434186
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Building Addons/Water_Tank_1A.prefab
+  uploadId: 482381

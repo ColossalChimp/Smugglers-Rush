@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d85dbdc3fe6a94b4a84fe43272199304
+labels:
+- car
+- cargo
+- transport
+- truck
+- vehicle
+timeCreated: 1522433632
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Cars/Truck_1B.prefab
+  uploadId: 482381

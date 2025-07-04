@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da2939482cc59422992c7f81a864f08e
+timeCreated: 1489073476
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Particles/Smoke_Black.prefab
+  uploadId: 402712

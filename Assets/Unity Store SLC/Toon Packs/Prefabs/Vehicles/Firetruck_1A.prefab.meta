@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ec5cf5f3f22c7456b94961629f991243
+labels:
+- Car
+- Vehicle
+- Emergency
+- Sirens
+- Truck
+- Firetruck
+timeCreated: 1449485105
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/Firetruck_1A.prefab
+  uploadId: 354765

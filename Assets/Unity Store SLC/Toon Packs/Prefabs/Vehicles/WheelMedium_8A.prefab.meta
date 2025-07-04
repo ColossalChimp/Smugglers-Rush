@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6cb3748c3c0c241aa8a032769e0fee89
+timeCreated: 1468768811
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/WheelMedium_8A.prefab
+  uploadId: 354765

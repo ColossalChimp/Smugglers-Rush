@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 84bea83737b68456d887e5cf867103ab
+labels:
+- pipe
+timeCreated: 1522276411
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Pipes/Giant_Pipe_2B.prefab
+  uploadId: 482381

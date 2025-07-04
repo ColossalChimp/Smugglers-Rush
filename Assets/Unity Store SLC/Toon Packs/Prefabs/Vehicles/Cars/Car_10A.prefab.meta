@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: afe89e60e06fe43e6b558ab480dbc64c
+labels:
+- car
+- cargo
+- pick-up
+- transport
+- truck
+- vehicle
+timeCreated: 1489401503
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_10A.prefab
+  uploadId: 402712

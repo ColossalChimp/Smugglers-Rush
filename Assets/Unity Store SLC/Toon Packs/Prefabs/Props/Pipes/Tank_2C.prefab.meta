@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 847829bdc11e0423fb205f73bc197236
+labels:
+- recycling
+- tank
+timeCreated: 1522432552
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Pipes/Tank_2C.prefab
+  uploadId: 482381

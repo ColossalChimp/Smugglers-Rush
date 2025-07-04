@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 03fa0b41730784a9c94a8ee477d971f9
+labels:
+- car
+- cistern
+- truck
+- vehicle
+timeCreated: 1522273413
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Cars/Cistern_1B.prefab
+  uploadId: 482381

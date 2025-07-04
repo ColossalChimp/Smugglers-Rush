@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c137d901bd33b4aeeb6acb42170ff38a
+timeCreated: 1511445698
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Models/Materials/Plane.mat
+  uploadId: 482381

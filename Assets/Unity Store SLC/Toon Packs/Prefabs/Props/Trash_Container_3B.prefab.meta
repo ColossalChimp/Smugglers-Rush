@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2331f67e90db34071bc3e84ba3a26af8
+labels:
+- container
+- garbage
+- trash
+timeCreated: 1522433522
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Trash_Container_3B.prefab
+  uploadId: 482381

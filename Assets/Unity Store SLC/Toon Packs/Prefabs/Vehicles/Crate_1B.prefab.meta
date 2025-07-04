@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0c503334beda5444f919e7921ec2928c
+labels:
+- Box
+- Cargo
+- Merchandise
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54560
+  packageName: Complete Vehicle Pack V2
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack V2/Prefabs/Crate_1B.prefab
+  uploadId: 354767

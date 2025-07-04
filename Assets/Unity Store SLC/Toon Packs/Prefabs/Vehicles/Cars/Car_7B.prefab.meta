@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d94437dcaebba48418228acdefa25174
+labels:
+- car
+- compact
+- hybrid
+- vehicle
+timeCreated: 1489400987
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_7B.prefab
+  uploadId: 402712

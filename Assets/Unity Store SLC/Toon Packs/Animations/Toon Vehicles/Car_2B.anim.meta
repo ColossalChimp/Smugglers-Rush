@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f1f80ea30f58421e899d0e9bdcec853
+timeCreated: 1487458776
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Animations/Car_2B.anim
+  uploadId: 402712

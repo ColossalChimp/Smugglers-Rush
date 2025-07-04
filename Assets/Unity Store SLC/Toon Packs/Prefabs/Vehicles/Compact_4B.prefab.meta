@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 176e1a110fc1ff9439b178225f64eba2
+labels:
+- Vehicle
+- Land
+- Compact
+- Small
+- Sporty
+- Sportscar
+- Coupe
+- HotHatch
+- Hatchback
+- Tuning
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54560
+  packageName: Complete Vehicle Pack V2
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack V2/Prefabs/Compact_4B.prefab
+  uploadId: 354767

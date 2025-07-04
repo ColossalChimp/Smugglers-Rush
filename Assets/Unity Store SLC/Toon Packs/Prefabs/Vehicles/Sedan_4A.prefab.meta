@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ad190cd59692c4534910c720da7dbe95
+labels:
+- Car
+- Vehicle
+- Limousine
+- Executive
+- Sedan
+- Luxury
+timeCreated: 1449485357
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/Sedan_4A.prefab
+  uploadId: 354765

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 89da9544a23d74338a8a5d6b614159dc
+labels:
+- cargo
+- container
+- industrial
+- transport
+timeCreated: 1522274082
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Container_1K.prefab
+  uploadId: 482381

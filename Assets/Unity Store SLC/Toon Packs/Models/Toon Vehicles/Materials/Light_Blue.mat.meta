@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 805c51b7cc20b4c84834cec7b5381c15
+timeCreated: 1487458214
+licenseType: Free
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Models/Materials/Light_Blue.mat
+  uploadId: 402712

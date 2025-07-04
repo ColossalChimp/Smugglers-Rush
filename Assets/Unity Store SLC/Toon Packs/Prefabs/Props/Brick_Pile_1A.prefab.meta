@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: db323e30ccc7e4b60a3a1fdabd6ae4d5
+labels:
+- bricks
+timeCreated: 1522272227
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Brick_Pile_1A.prefab
+  uploadId: 482381

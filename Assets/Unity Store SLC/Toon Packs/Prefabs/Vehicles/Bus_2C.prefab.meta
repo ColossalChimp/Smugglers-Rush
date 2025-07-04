@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a5f3acf6d75572c46a7c37e98b05d8d4
+labels:
+- Bus
+- Transport
+- Vehicle
+- Public
+- Land
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54560
+  packageName: Complete Vehicle Pack V2
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack V2/Prefabs/Bus_2C.prefab
+  uploadId: 354767

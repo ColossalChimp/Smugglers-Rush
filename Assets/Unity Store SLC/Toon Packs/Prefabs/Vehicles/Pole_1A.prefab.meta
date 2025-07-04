@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0685d1819a918410ab0f631844151c5f
+labels:
+- Pole
+timeCreated: 1469057526
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/Pole_1A.prefab
+  uploadId: 354765

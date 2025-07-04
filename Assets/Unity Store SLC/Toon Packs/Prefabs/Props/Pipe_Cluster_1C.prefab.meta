@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b6af971fd6e9347d7904ce4dba12c8ad
+labels:
+- pipes
+timeCreated: 1522431154
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Pipe_Cluster_1C.prefab
+  uploadId: 482381

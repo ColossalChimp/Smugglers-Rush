@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2b00ae64e048c8b42903633df54bea85
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187803
+  packageName: Ash Vehicle Physics
+  packageVersion: 3.3
+  assetPath: Assets/Ash Assets/Ash Vehicle Physics/Editor/carController_Editor.cs
+  uploadId: 721655

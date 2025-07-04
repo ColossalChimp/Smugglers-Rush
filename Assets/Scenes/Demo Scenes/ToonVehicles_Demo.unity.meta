@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a2ef875aeec3946c8bef7b268121d60d
+timeCreated: 1486324541
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Scenes/Demo_Scene_1.unity
+  uploadId: 402712

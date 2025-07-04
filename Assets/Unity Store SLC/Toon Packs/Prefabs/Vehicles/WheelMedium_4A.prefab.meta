@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8623bd0529de54840a21d76ace248368
+labels:
+- Wheels
+- Tires
+- Rims
+- Wheel
+timeCreated: 1449420679
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/WheelMedium_4A.prefab
+  uploadId: 354765

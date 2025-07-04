@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c5857450fcba541c88b38ab6d2cf2c3a
+labels:
+- electric
+- pole
+- streetlight
+timeCreated: 1522432323
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Roads/Streetlight_4A.prefab
+  uploadId: 482381

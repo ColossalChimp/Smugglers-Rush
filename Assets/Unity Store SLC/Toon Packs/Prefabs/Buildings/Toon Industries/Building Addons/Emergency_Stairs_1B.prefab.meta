@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c6a08b4bf8e0342e7ad41bc82b32ebc9
+labels:
+- accesory
+- addon
+- emergency
+- exit
+- fire
+- safety
+- stairs
+timeCreated: 1522275305
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Building Addons/Emergency_Stairs_1B.prefab
+  uploadId: 482381

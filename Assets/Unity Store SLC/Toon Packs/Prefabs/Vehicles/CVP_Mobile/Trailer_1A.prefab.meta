@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 93e77fa185d2447899efd53df8702933
+labels:
+- Tow
+- Trailer
+timeCreated: 1469056625
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs_Mobile/Trailer_1A.prefab
+  uploadId: 354765

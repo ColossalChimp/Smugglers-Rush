@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 22906ed23df6042f5b5caa1681f07c66
+labels:
+- pipe
+timeCreated: 1522422059
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Pipes/Pipe_1G.prefab
+  uploadId: 482381

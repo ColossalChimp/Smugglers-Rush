@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3c45d107aa17d445598c300841025c9e
+labels:
+- Wheels
+- Tires
+- Rims
+- Wheel
+timeCreated: 1449420503
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/WheelLarge_1B.prefab
+  uploadId: 354765

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 312d9fa9916534c0b9d5713b99814ade
+labels:
+- bag
+- garbage
+- trash
+timeCreated: 1522433239
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Trash_Bag_3A.prefab
+  uploadId: 482381

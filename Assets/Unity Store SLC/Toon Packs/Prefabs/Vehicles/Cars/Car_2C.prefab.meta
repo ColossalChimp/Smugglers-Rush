@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3164d13de6e4b4548b3de39667895054
+labels:
+- car
+- cargo
+- police
+- transport
+- van
+- vehicle
+timeCreated: 1487861535
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_2C.prefab
+  uploadId: 402712

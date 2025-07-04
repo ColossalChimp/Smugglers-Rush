@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 472badd378e704b3a87d5e8e521f7372
+labels:
+- concrete
+- pavement
+timeCreated: 1522421389
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Pavement/Pavement_1O_4x4.prefab
+  uploadId: 482381

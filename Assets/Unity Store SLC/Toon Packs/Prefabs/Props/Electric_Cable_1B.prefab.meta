@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6fa06d018d9844fc2b9710ae03106f95
+labels:
+- cable
+- electric
+timeCreated: 1522274782
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Electric_Cable_1B.prefab
+  uploadId: 482381

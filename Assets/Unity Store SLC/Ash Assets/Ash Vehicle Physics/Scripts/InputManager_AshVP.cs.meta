@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 036a5c7f73b0b864c917c64de3deaa8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 187803
+  packageName: Ash Vehicle Physics
+  packageVersion: 3.3
+  assetPath: Assets/Ash Assets/Ash Vehicle Physics/Scripts/InputManager_AshVP.cs
+  uploadId: 721655

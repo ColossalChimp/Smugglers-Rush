@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 37ffce6a866de4b62b67371bbf81ba9e
+labels:
+- concrete
+- statue
+timeCreated: 1522431835
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Statue_1A.prefab
+  uploadId: 482381

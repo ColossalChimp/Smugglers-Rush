@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6ffbd6efb549a45508397490ebdf1483
+labels:
+- Car
+- Vehicle
+- SportsCar
+- Coupe
+- Tuning
+- Muscle
+- Luxury
+- Aerodynamic
+timeCreated: 1449497310
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs_Mobile/Coupe_2A.prefab
+  uploadId: 354765

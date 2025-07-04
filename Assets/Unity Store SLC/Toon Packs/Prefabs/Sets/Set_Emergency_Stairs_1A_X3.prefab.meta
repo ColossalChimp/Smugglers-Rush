@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9f9997d811c614da6b9bd5e26f02ce47
+labels:
+- set
+timeCreated: 1522275385
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Sets/Set_Emergency_Stairs_1A_X3.prefab
+  uploadId: 482381

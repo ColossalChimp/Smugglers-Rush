@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3910087f9361a499b84fb33b2a269d93
+timeCreated: 1489063484
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Animations/Rotating_Camera.anim
+  uploadId: 402712

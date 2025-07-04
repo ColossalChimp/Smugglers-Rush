@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a202f8e011564ed19d4e9af2d74ec97
+timeCreated: 1489265840
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Animations/Tower.controller
+  uploadId: 402712

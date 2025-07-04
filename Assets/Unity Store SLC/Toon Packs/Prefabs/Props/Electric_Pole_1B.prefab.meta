@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0c1ac98ad3fe844fdbcf0305dd318510
+labels:
+- electric
+- pole
+timeCreated: 1522274742
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Electric_Pole_1B.prefab
+  uploadId: 482381

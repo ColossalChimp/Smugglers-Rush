@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 35f128ec367824eb7a1b85fc3d8d4602
+labels:
+- Car
+- Vehicle
+- Compact
+- HotHatch
+- SportsCar
+timeCreated: 1449484827
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51460
+  packageName: Complete Vehicle Pack
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack/Prefabs/Compact_1A.prefab
+  uploadId: 354765

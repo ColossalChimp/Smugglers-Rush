@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 360891b4dafc44d4f9fb2395f0f5a836
+labels:
+- girder
+- metal
+timeCreated: 1522420366
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Props/Metal_Girder_1A.prefab
+  uploadId: 482381

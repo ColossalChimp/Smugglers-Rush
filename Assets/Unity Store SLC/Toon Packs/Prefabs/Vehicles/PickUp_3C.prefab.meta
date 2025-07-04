@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 692ee42683aa2464e8689ed14ede12c7
+labels:
+- Transport
+- Cargo
+- Box
+- Vehicle
+- Land
+- Merchandise
+- PickUp
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54560
+  packageName: Complete Vehicle Pack V2
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack V2/Prefabs/PickUp_3C.prefab
+  uploadId: 354767

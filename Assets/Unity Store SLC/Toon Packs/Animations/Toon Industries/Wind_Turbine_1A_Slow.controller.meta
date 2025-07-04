@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 198574b2d623d824aa8d3980b14b8d5b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Animations/Wind_Turbine_1A_Slow.controller
+  uploadId: 482381

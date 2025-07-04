@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9893806fe7178431f8fe06c897499af7
+labels:
+- electric
+- pole
+- stoplight
+- streetlight
+timeCreated: 1522432257
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Prefabs/Roads/Streetlight_3D.prefab
+  uploadId: 482381

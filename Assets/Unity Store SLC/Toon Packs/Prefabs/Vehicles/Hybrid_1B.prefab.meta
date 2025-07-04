@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6712afafe75769e49b8a50d3232c728e
+labels:
+- Vehicle
+- Land
+- Compact
+- Hybrid
+- Electric
+- Minivan
+- Wagon
+- Family
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54560
+  packageName: Complete Vehicle Pack V2
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack V2/Prefabs/Hybrid_1B.prefab
+  uploadId: 354767

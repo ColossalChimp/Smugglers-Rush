@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 95e9087847bf9441bae7a2a5e2674af4
+timeCreated: 1520853697
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115109
+  packageName: Toon Industries
+  packageVersion: 1.2
+  assetPath: Assets/Toon Industries/Animations/Bilboard_1D.controller
+  uploadId: 482381

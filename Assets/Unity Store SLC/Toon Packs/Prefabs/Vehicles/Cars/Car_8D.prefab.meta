@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d7712ae12a9a443d5924224621fb72e5
+labels:
+- car
+- highway
+- interceptor
+- patrol
+- police
+- sedan
+- vehicle
+timeCreated: 1487459074
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 85104
+  packageName: Toon Vehicles
+  packageVersion: 1.4
+  assetPath: Assets/Toon Vehicles/Prefabs/Cars/Car_8D.prefab
+  uploadId: 402712

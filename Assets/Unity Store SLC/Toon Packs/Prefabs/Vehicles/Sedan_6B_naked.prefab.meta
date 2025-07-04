@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ea36b7a6d2dabb648bca1017bf7d997d
+labels:
+- Passenger
+- Limousine
+- Sedan
+- Family
+- Wagon
+- Hybrid
+- Vehicle
+- Land
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 54560
+  packageName: Complete Vehicle Pack V2
+  packageVersion: 1.4
+  assetPath: Assets/Complete Vehicle Pack V2/Prefabs/Sedan_6B_naked.prefab
+  uploadId: 354767
