@@ -41,7 +41,7 @@ Smuggler's Rush is a love letter to the legendary 2000 and 2001 titles *Smuggler
 
 ## Project Status
 
-🚧 Pre-Alpha — Core systems are being scoped and developed. Refer to the [Trello Board](https://trello.com/your-trello-link-here) for real-time progress.
+🚧 Pre-Alpha — Core systems are being scoped and developed. Refer to the [Trello Board](https://trello.com/b/wCbtFe6M/pre-alpha-planning) for real-time progress.
 
 ✅ Concept & Scope complete  
 ✅ Trello board with feature breakdowns  
