@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b5ab3dd72d54ff46ab6be8c31770ac8
+timeCreated: 1452546469
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53612
+  packageName: Low Poly Soldiers
+  packageVersion: 1.3.1
+  assetPath: Assets/LowPolySoldiers/prefabs/Soldier_all_parts.prefab
+  uploadId: 361093

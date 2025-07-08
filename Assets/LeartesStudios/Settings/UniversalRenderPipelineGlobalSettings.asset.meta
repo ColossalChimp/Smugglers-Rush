@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bbc1eb7f0e5001c47aebc0941830d20a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 253793
+  packageName: Modular Stylized Medieval Town
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/Settings/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 580790

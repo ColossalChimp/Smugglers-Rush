@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e601d42661341a4793a11c5885b9fd8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292457
+  packageName: AirDrop
+  packageVersion: 1.0
+  assetPath: Assets/Airdrop/Materials/06.mat
+  uploadId: 683171

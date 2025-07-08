@@ -13,6 +13,15 @@ MonoBehaviour:
   m_Name: ColorPaletteManager
   m_EditorClassIdentifier: 
   colorPalettes:
+  - name: Sepia
+    showAlpha: 0
+    colors:
+    - {r: 0.353, g: 0.098, b: 0.02, a: 1}
+    - {r: 0.663, g: 0.188, b: 0.114, a: 1}
+    - {r: 0.906, g: 0.643, b: 0.082, a: 1}
+    - {r: 0.996, g: 0.839, b: 0.322, a: 1}
+    - {r: 0.486, g: 0.392, b: 0.02, a: 1}
+    - {r: 0.294, g: 0.235, b: 0.012, a: 1}
   - name: Country
     showAlpha: 0
     colors:
@@ -71,15 +80,6 @@ MonoBehaviour:
     - {r: 0.188, g: 0.114, b: 0.224, a: 1}
     - {r: 0.349, g: 0.11, b: 0.231, a: 1}
     - {r: 0.435, g: 0.267, b: 0.357, a: 1}
-  - name: Sepia
-    showAlpha: 0
-    colors:
-    - {r: 0.353, g: 0.098, b: 0.02, a: 1}
-    - {r: 0.663, g: 0.188, b: 0.114, a: 1}
-    - {r: 0.906, g: 0.643, b: 0.082, a: 1}
-    - {r: 0.996, g: 0.839, b: 0.322, a: 1}
-    - {r: 0.486, g: 0.392, b: 0.02, a: 1}
-    - {r: 0.294, g: 0.235, b: 0.012, a: 1}
   - name: Floral
     showAlpha: 0
     colors:

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: afc5a08ec266f7a44b20fe1c63daf5a2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272221
+  packageName: Stylized Ancient Ruins Environment (Ruin, Dungeon)
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/AncientRuins/HDRP/Art/Particles/P_TorchFire.prefab
+  uploadId: 700238

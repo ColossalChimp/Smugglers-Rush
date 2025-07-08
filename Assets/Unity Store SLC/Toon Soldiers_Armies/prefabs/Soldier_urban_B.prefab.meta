@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0457555b5679fc24481a83b42665ede5
+timeCreated: 1452548306
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53612
+  packageName: Low Poly Soldiers
+  packageVersion: 1.3.1
+  assetPath: Assets/LowPolySoldiers/prefabs/Soldier_urban_B.prefab
+  uploadId: 361093

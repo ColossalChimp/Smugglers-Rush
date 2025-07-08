@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6858ef6a027c0f743a384fdfa7e14136
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272216
+  packageName: Stylized Japanese Shrine Environment
+  packageVersion: 1.0
+  assetPath: Assets/Leartes Studios/Japanese_Shrine/HDRP/Art/Shader Graphs/S_Leaves.shadergraph
+  uploadId: 701318

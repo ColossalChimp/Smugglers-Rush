@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4a825f43e6ed7b145b8a49b10782814f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 253793
+  packageName: Modular Stylized Medieval Town
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/Stylized Medieval Town/Art/ShaderGraphs/SubG_BlendAngleCorrectedNormals.shadersubgraph
+  uploadId: 580790
