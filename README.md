@@ -10,6 +10,7 @@ Smuggler's Rush is a love letter to the legendary 2000 and 2001 titles *Smuggler
 ## Table of Contents
 
 * [About](#about)
+* [Concept & Scope](#concept-&-scope)
 * [Features (Planned)](#features-planned)
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
@@ -19,6 +20,13 @@ Smuggler's Rush is a love letter to the legendary 2000 and 2001 titles *Smuggler
 
 * **Original Inspiration**: *Smuggler's Run* (2000) & *Smuggler's Run: Hostile Territory* (2001)
 * **Goal**: Capture the high-speed, adrenaline‑fueled races across rugged terrain, reimagined with a low‑poly art style, refined physics, and updated level design.
+
+## Concept & Scope
+* Smuggler's Rush reimagines the classic off-road smuggling franchise with low-poly visuals and modern enhancements:
+* Narrative-driven missions with progression systems
+* Interactive safe zones for upgrades, side missions, and story beats
+* Global leaderboards for competitive replayability
+* Four expansive maps culminating in unique final challenges
 
 ## Features (Planned)
 
@@ -30,6 +38,32 @@ Smuggler's Rush is a love letter to the legendary 2000 and 2001 titles *Smuggler
 * **Multiplayer**: Online & local challenges and leaderboards
 
 ## Getting Started
+
+## Project Status
+
+🚧 Pre-Alpha — Core systems are being scoped and developed. Refer to the [Trello Board](https://trello.com/b/wCbtFe6M/pre-alpha-planning) for real-time progress.
+
+✅ Concept & Scope complete  
+✅ Trello board with feature breakdowns  
+🔜 GDD in progress  
+
+## Planning & Roadmap
+
+We use Trello to organize feature development and team tasks.
+
+🗂 [Smuggler’s Rush Pre-Alpha Planning Board](https://trello.com/b/wCbtFe6M/pre-alpha-planning)
+
+## Game Design Document
+
+We’re currently drafting our full Game Design Document (GDD), which will define gameplay systems, mechanics, UI, enemy behavior, maps, and story design.
+
+📄 GDD Coming Soon...
+
+## Playtesting
+
+Internal builds will be made available for feedback in future stages.
+
+🛠 Pre-Alpha → Alpha → Beta → Release
 
 ### Prerequisites
 
@@ -53,12 +87,19 @@ Smuggler's Rush is a love letter to the legendary 2000 and 2001 titles *Smuggler
 ## Contributing
 
 1. Fork the project
-2. Create a feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add YourFeature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
+2. Create a development branch (`git checkout -b dev-<YourDeveloperName>`) where (YourDeveloperName) is your GitHub handle
+3. Commit your changes (`git commit -m 'Describe your requested Feature'`)
+4. Push to the branch (`git push origin dev-<YourDeveloperName>`)
+5. Open a Pull Request against ('safety') following template provided
 
 Please follow the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
+
+## Core Team
+
+- David Daniels — Lead Developer / Game Designer
+- David Daniels — UI/UX Designer
+- David Daniels — Programmer
+- David Daniels — Level Designer
 
 ## License
 

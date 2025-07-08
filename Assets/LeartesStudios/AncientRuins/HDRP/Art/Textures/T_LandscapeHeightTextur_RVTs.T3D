@@ -1,0 +1,5 @@
+Begin Object Class=/Script/Engine.RuntimeVirtualTexture Name="T_LandscapeHeightTextur_RVTs" ExportPath=/Script/Engine.RuntimeVirtualTexture'"/Game/Ancient_Ruins/Textures/T_LandscapeHeightTextur_RVTs.T_LandscapeHeightTextur_RVTs"'
+   TileCount=10
+   TileSize=3
+   MaterialType=WorldHeight
+End Object

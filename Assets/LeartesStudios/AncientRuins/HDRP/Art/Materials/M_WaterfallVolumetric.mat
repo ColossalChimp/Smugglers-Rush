@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9005607038814984711
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da692e001514ec24dbc4cca1949ff7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 12
+  hdPluginSubTargetMaterialVersions:
+    m_Keys: []
+    m_Values: 
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_WaterfallVolumetric
+  m_Shader: {fileID: -6465566751694194690, guid: 9b8730fdd6ed1fd42a6afee596a8fa83,
+    type: 3}
+  m_ValidKeywords:
+  - _ALPHATEST_ON
+  m_InvalidKeywords:
+  - _DISABLE_SSR_TRANSPARENT
+  - _DOUBLESIDED_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    MotionVector: User
+    RenderType: TransparentCutout
+  disabledShaderPasses:
+  - TransparentDepthPrepass
+  - TransparentDepthPostpass
+  - TransparentBackface
+  - MOTIONVECTORS
+  - RayTracingPrepass
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Rough_mask:
+        m_Texture: {fileID: 2800000, guid: 759b56e351f698a439177a9722a6992a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_cc5214f2dc2c4e8dbfe304f5c57fa94b_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 668eb5bf08e537141ad09b8d869dc2a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_059e5ab9551d4a10a1361de5ac7a2ab3_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 332af182a64451141acd978bdd7c24d2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_10dff28943664b7da91714a1b8a757c2_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 668eb5bf08e537141ad09b8d869dc2a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_19c2ee1cfad84fc8ab6b00b0833b25bf_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 332af182a64451141acd978bdd7c24d2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8f11c7dd9dce48988c5110f7bb693caf_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 668eb5bf08e537141ad09b8d869dc2a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bfd6494feee745e998059e12de752397_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 72afc2f64471e0d42bc25a824f10f5e3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f64e160b100a4c1faf2dfe6fb27e0c39_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 668eb5bf08e537141ad09b8d869dc2a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _lines_main_tex:
+        m_Texture: {fileID: 2800000, guid: 668eb5bf08e537141ad09b8d869dc2a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _A_ScaleX: 0.5
+    - _A_ScaleY: 1.3
+    - _A_Speed: 0.85
+    - _Acceleration: 1
+    - _AddPrecomputedVelocity: 0
+    - _AlphaCutoffEnable: 1
+    - _AlphaDstBlend: 0
+    - _AlphaSrcBlend: 1
+    - _AlphaToMask: 0
+    - _AlphaToMaskInspectorValue: 0
+    - _BScaleX: 2
+    - _BScaleY: 1
+    - _B_ScaleX: 1
+    - _B_ScaleY: -231.7
+    - _B_Speed: 1
+    - _Bias: 0.5
+    - _BlendMode: 0
+    - _ConservativeDepthOffsetEnable: 0
+    - _CullMode: 0
+    - _CullModeForward: 0
+    - _DepthOffsetEnable: 0
+    - _DoubleSidedEnable: 1
+    - _DoubleSidedGIMode: 0
+    - _DoubleSidedNormalMode: 2
+    - _DstBlend: 0
+    - _EmissionStrength: -492.57
+    - _EnableBlendModePreserveSpecularLighting: 0
+    - _EnableFogOnTransparent: 1
+    - _Fade_distance_color: 1000
+    - _Float: 1
+    - _Foam_fade_dist: 40
+    - _Height: -4.61
+    - _Horizontal_Speed: 0
+    - _Lines_secondary_scale_X: 2
+    - _Normal_Fade: 4424.14
+    - _OpaqueCullMode: 2
+    - _RayTracing: 0
+    - _ReceivesSSR: 1
+    - _ReceivesSSRTransparent: 0
+    - _RefractionModel: 0
+    - _RenderQueueType: 1
+    - _RequireSplitLighting: 0
+    - _Rough_mask_speed: 0
+    - _Rough_tiling: 0.5
+    - _ScaleWidth: 1
+    - _SrcBlend: 1
+    - _StencilRef: 0
+    - _StencilRefDepth: 0
+    - _StencilRefDistortionVec: 4
+    - _StencilRefGBuffer: 2
+    - _StencilRefMV: 32
+    - _StencilWriteMask: 6
+    - _StencilWriteMaskDepth: 8
+    - _StencilWriteMaskDistortionVec: 4
+    - _StencilWriteMaskGBuffer: 14
+    - _StencilWriteMaskMV: 40
+    - _SupportDecals: 1
+    - _SurfaceType: 0
+    - _Threshold: 0.1
+    - _Threshold_Bias: 1
+    - _TransparentBackfaceEnable: 0
+    - _TransparentCullMode: 2
+    - _TransparentDepthPostpassEnable: 0
+    - _TransparentDepthPrepassEnable: 0
+    - _TransparentSortPriority: 0
+    - _TransparentWritingMotionVec: 0
+    - _TransparentZWrite: 0
+    - _UseShadowThreshold: 0
+    - _Vertical_Speed: 0.001
+    - _WPO_Speed: 1
+    - _WPO_Tiling: 1
+    - _ZTestDepthEqualForOpaque: 3
+    - _ZTestGBuffer: 3
+    - _ZTestTransparent: 4
+    - _ZWrite: 1
+    - _fade_edge_distance: 5
+    - _foam_contrast: 1
+    - _foam_scale: 3
+    - _foam_speed: 0.015
+    - _line_acceleration: 0.5
+    - _line_scale_width: 1
+    - _line_threshold: 0.642857
+    - _lines_Secondary_scale_Y: 1
+    - _lines_main_scale_X: 0.5
+    - _lines_main_scale_Y: 1.3
+    - _lines_main_speed: 1.3
+    - _rough_contrast: 0
+    - _roughness: 0.15
+    - _tiling_large: 12
+    - _tiling_small: 20
+    - _time_secondary_speed: 1.15
+    - _uv_fade: 0
+    - _wave_large_normal_Strength: 0.8
+    - _wave_small_normal_strength: 0.8
+    m_Colors:
+    - _Color: {r: 0.9137255, g: 0.8, b: 0.8130852, a: 0}
+    - _Color1: {r: 0.4823529, g: 0.9019608, b: 1, a: 1}
+    - _Color2: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_1: {r: 0, g: 0, b: 0, a: 0}
+    - _DoubleSidedConstants: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Water_color: {r: 0, g: 0.42745098, b: 0.454902, a: 1}
+    - _Water_color_deep: {r: 0, g: 0.29019606, b: 0.38039213, a: 1}
+    - _line_color: {r: 0.572549, g: 0.9137256, b: 1, a: 1}
+  m_BuildTextureStacks: []
