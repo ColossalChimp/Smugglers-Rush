@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e52547cbe8c01044aa399cc4cdf6a983
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272221
+  packageName: Stylized Ancient Ruins Environment (Ruin, Dungeon)
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/AncientRuins/HDRP/Art/Materials/M_Rock_Small_2_Var.mat
+  uploadId: 700238

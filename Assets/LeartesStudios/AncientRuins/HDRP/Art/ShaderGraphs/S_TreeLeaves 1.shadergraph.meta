@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f5012feb8655c3e428fc5fdd712c5492
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272221
+  packageName: Stylized Ancient Ruins Environment (Ruin, Dungeon)
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/AncientRuins/HDRP/Art/ShaderGraphs/S_TreeLeaves
+    1.shadergraph
+  uploadId: 700238

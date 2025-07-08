@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec45b339cdac2fa4dbd554a29d1f0227
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272221
+  packageName: Stylized Ancient Ruins Environment (Ruin, Dungeon)
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/AncientRuins/HDRP/Art/Materials/M_Brick_1.mat
+  uploadId: 700238

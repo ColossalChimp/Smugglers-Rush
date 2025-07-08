@@ -87,7 +87,7 @@ Internal builds will be made available for feedback in future stages.
 ## Contributing
 
 1. Fork the project
-2. Create a development branch (`git checkout -b dev-<YourDeveloperName>`) where <YourDeveloperName> is your GitHub handle
+2. Create a development branch (`git checkout -b dev-<YourDeveloperName>`) where (YourDeveloperName) is your GitHub handle
 3. Commit your changes (`git commit -m 'Describe your requested Feature'`)
 4. Push to the branch (`git push origin dev-<YourDeveloperName>`)
 5. Open a Pull Request against ('safety') following template provided

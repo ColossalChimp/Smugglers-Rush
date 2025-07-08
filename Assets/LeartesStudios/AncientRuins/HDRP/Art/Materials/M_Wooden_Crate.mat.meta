@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fe8063d62c5c8a458822c607ef7291a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272221
+  packageName: Stylized Ancient Ruins Environment (Ruin, Dungeon)
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/AncientRuins/HDRP/Art/Materials/M_Wooden_Crate.mat
+  uploadId: 700238

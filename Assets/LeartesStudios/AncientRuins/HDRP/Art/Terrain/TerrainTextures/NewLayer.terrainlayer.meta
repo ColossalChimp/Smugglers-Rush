@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92612b5bf09ee264787f7c380d133f71
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272221
+  packageName: Stylized Ancient Ruins Environment (Ruin, Dungeon)
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/AncientRuins/HDRP/Art/Terrain/TerrainTextures/NewLayer.terrainlayer
+  uploadId: 700238

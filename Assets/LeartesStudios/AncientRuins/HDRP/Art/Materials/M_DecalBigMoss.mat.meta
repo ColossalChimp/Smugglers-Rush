@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15e70cc5dfe00f04f9c4df0adef74bab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272221
+  packageName: Stylized Ancient Ruins Environment (Ruin, Dungeon)
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/AncientRuins/HDRP/Art/Materials/M_DecalBigMoss.mat
+  uploadId: 700238

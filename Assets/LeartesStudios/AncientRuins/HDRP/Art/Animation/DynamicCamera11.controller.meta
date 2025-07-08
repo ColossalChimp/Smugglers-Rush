@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 799a6ef6e7b91264d9b835ae7838f606
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272221
+  packageName: Stylized Ancient Ruins Environment (Ruin, Dungeon)
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/AncientRuins/HDRP/Art/Animation/DynamicCamera11.controller
+  uploadId: 700238

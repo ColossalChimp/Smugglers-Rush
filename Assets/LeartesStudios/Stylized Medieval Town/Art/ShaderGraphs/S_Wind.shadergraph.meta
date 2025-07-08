@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f2079865c4f635a45b83d9054f046bec
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 253793
+  packageName: Modular Stylized Medieval Town
+  packageVersion: 1.0
+  assetPath: Assets/LeartesStudios/Stylized Medieval Town/Art/ShaderGraphs/S_Wind.shadergraph
+  uploadId: 580790
