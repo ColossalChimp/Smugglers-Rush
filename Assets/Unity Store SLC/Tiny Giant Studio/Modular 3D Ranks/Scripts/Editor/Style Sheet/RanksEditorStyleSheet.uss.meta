@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 20f7fa31bc9cca44d888e20be2a43e9f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314021
+  packageName: Modular 3D Ranks
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Giant Studio/Modular 3D Ranks/Scripts/Editor/Style Sheet/RanksEditorStyleSheet.uss
+  uploadId: 751868

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8949df90c74761a4e8781c3929b2da67
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78420
+  packageName: Toy Cars
+  packageVersion: 2.1
+  assetPath: Assets/Toy_Cars/Prefabs/Colliders/armor_collider.prefab
+  uploadId: 669872

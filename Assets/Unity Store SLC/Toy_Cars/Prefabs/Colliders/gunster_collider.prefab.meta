@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c4ae9b221a79cf479ea14e01495e94f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78420
+  packageName: Toy Cars
+  packageVersion: 2.1
+  assetPath: Assets/Toy_Cars/Prefabs/Colliders/gunster_collider.prefab
+  uploadId: 669872

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b8e07e4f332349e43a3890b12c677648
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314021
+  packageName: Modular 3D Ranks
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Giant Studio/Modular 3D Ranks/Scripts/Class/Body.cs
+  uploadId: 751868

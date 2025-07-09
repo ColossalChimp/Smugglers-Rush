@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ddfee778f8f98d45a9c6fd75be7dde5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78420
+  packageName: Toy Cars
+  packageVersion: 2.1
+  assetPath: Assets/Toy_Cars/Prefabs/Colliders/bat_collider.prefab
+  uploadId: 669872

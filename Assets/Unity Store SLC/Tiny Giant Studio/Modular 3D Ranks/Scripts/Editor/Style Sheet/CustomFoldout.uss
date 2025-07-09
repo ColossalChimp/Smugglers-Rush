@@ -1,0 +1,115 @@
+.custom-foldout {
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(0, 0, 0);
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 5px;
+    background-color: rgba(255, 255, 255, 0.03);
+    transition-property: background-color;
+    transition-duration: 1s;
+    overflow: hidden;
+}
+
+.custom-foldout .header {
+    flex-direction: row;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-bottom-width: 0;
+    border-left-color: rgba(255, 255, 255, 0.2);
+    border-right-color: rgba(0, 0, 0, 0.2);
+    border-top-color: rgba(255, 255, 255, 0.2);
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition-property: background-color;
+    transition-duration: 0.2s;
+    border-top-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    align-items: stretch;
+    flex-shrink: 1;
+    background-color: var(--unity-colors-headerbar_column-background-hover);
+    transition-timing-function: ease-in;
+}
+
+.custom-foldout .header:hover {
+    background-color: var(--unity-colors-button-background-hover);
+}
+
+.custom-foldout .header .foldout-toggle {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-left: 0;
+    margin-right: 5px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: var(--unity-colors-label-text);
+    transition-property: color, background-color;
+    transition-duration: 0.2s, 0.15s;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 0;
+    background-color: rgba(255, 255, 255, 0);
+    transition-timing-function: ease-in, ease-in;
+}
+
+.custom-foldout .header .foldout-toggle:hover {
+    color: var(--unity-colors-label-text-focus);
+    background-color: rgba(255, 255, 255, 0.04);
+}
+
+.custom-foldout .content {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    transition-duration: 0.2s, 0.3s, 0.1s;
+    translate: 0 0;
+    transition-property: opacity, translate, scale;
+    overflow: hidden;
+    scale: 1 1;
+    transform-origin: top;
+    transition-timing-function: ease, ease-out-bounce, ease;
+    border-bottom-right-radius: 1px;
+    border-bottom-left-radius: 1px;
+    border-left-color: rgba(255, 255, 255, 0.2);
+    border-right-color: rgba(0, 0, 0, 0.2);
+    border-bottom-color: rgba(0, 0, 0, 0.2);
+    border-top-width: 0;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+}

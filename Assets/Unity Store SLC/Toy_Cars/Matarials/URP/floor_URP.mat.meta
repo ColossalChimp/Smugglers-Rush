@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92d995493d7cc584b8442a54c2078233
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78420
+  packageName: Toy Cars
+  packageVersion: 2.1
+  assetPath: Assets/Toy_Cars/Matarials/URP/floor_URP.mat
+  uploadId: 669872

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3cc4fe7674ac5294a8760b00b7b346de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314021
+  packageName: Modular 3D Ranks
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Giant Studio/Modular 3D Ranks/Scripts/Editor/CustomFoldoutSetup.cs
+  uploadId: 751868

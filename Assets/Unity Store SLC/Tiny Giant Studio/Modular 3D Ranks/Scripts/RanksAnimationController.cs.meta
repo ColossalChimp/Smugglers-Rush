@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a565dbb2d65ba4b45a780b29a74eaf97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314021
+  packageName: Modular 3D Ranks
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Giant Studio/Modular 3D Ranks/Scripts/RanksAnimationController.cs
+  uploadId: 751868

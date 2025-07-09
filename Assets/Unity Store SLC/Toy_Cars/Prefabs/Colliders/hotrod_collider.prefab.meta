@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9875efb999cb8a4419f1a318b901181c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 78420
+  packageName: Toy Cars
+  packageVersion: 2.1
+  assetPath: Assets/Toy_Cars/Prefabs/Colliders/hotrod_collider.prefab
+  uploadId: 669872

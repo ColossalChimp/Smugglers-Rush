@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd7baee25676c2646b6193996f0f90b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314021
+  packageName: Modular 3D Ranks
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Giant Studio/Modular 3D Ranks/Materials/Metals/Platinum
+    - Bright.mat
+  uploadId: 751868

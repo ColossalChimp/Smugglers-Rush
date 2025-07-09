@@ -1,0 +1,212 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/Modular%203D%20Ranks/Scripts/Editor/Style%20Sheet/CustomFoldout.uss?fileID=7433441132597879392&amp;guid=f0065dc86a0f64b43873ddab0c11246f&amp;type=3#CustomFoldout" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/Modular%203D%20Ranks/Scripts/Editor/Style%20Sheet/Labels.uss?fileID=7433441132597879392&amp;guid=dcd13f87c24833640bf71281d22e3320&amp;type=3#Labels" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/Modular%203D%20Ranks/Scripts/Editor/Style%20Sheet/Icons.uss?fileID=7433441132597879392&amp;guid=e4e445490ebe3894d852dfa930823a4f&amp;type=3#Icons" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/Modular%203D%20Ranks/Scripts/Editor/Style%20Sheet/RanksEditorStyleSheet.uss?fileID=7433441132597879392&amp;guid=20f7fa31bc9cca44d888e20be2a43e9f&amp;type=3#RanksEditorStyleSheet" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/Modular%203D%20Ranks/Scripts/Editor/Style%20Sheet/Tabs.uss?fileID=7433441132597879392&amp;guid=24cb084b5bf8509489f32f1237f9a120&amp;type=3#Tabs" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/Modular%203D%20Ranks/Scripts/Editor/Style%20Sheet/Containers.uss?fileID=7433441132597879392&amp;guid=4449153119329164681edfb14052bdd9&amp;type=3#Containers" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/Modular%203D%20Ranks/Scripts/Editor/Style%20Sheet/Buttons.uss?fileID=7433441132597879392&amp;guid=dd020c7ac6070d74280f0ecff0aaa31d&amp;type=3#Buttons" />
+    <ui:GroupBox name="PageContainer" class="pageContainer" style="transition-property: -unity-background-image-tint-color; transition-duration: 0.25s; transition-timing-function: ease-in;">
+        <ui:GroupBox style="margin-top: 10px; margin-right: 0; margin-bottom: 10px; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+            <ui:GroupBox name="TabsGroupbox" style="margin-top: 0; margin-right: 8px; margin-bottom: 0; margin-left: 8px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; align-items: flex-start; flex-direction: row; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px; justify-content: flex-start;">
+                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="SetsTabButton" class="tab">
+                    <ui:VisualElement class="state-icon" style="width: 15px; height: 15px; min-width: 15px; min-height: 15px;" />
+                    <ui:Label tabindex="-1" text="Ranks" parse-escape-sequences="true" display-tooltip-when-elided="true" style="margin-left: 2px;" />
+                </ui:Button>
+                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="CustomTabButton" tooltip="Create and Update Ranks with Live Preview" class="tab tab-selected">
+                    <ui:VisualElement class="customize-icon" style="width: 15px; height: 15px; min-width: 15px; min-height: 15px;" />
+                    <ui:Label tabindex="-1" text="Customize" parse-escape-sequences="true" display-tooltip-when-elided="true" style="margin-left: 2px; overflow: hidden; text-overflow: ellipsis;" />
+                </ui:Button>
+                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="SettingTabButton" class="tab">
+                    <ui:VisualElement class="settings-icon" style="width: 15px; height: 15px; min-width: 15px; min-height: 15px;" />
+                    <ui:Label tabindex="-1" text="Settings" parse-escape-sequences="true" display-tooltip-when-elided="true" style="margin-left: 2px;" />
+                </ui:Button>
+                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="ReferencesTabButton" class="tab">
+                    <ui:VisualElement class="reference-icon" style="width: 15px; height: 15px; min-width: 15px; min-height: 15px;" />
+                    <ui:Label tabindex="-1" text="Reference" parse-escape-sequences="true" display-tooltip-when-elided="true" style="margin-left: 2px;" />
+                </ui:Button>
+                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="DebugTabButton" class="tab">
+                    <ui:VisualElement class="debug-icon" style="width: 15px; height: 15px; min-width: 15px; min-height: 15px;" />
+                    <ui:Label tabindex="-1" text="Debug" parse-escape-sequences="true" display-tooltip-when-elided="true" style="margin-left: 2px;" />
+                </ui:Button>
+            </ui:GroupBox>
+            <ui:GroupBox name="TabContents" class="tabs-content">
+                <ui:GroupBox name="RanksTabContent" style="display: none; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                    <ui:GroupBox style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgba(0, 0, 0, 0.59); border-right-color: rgba(0, 0, 0, 0.59); border-top-color: rgba(0, 0, 0, 0.59); border-bottom-color: rgba(0, 0, 0, 0.59); margin-top: 10px; margin-right: 0; margin-bottom: 10px; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;">
+                        <ui:GroupBox style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; border-left-color: rgba(255, 255, 255, 0.2); border-right-color: rgba(0, 0, 0, 0.2); border-top-color: rgba(255, 255, 255, 0.2); border-bottom-color: rgba(0, 0, 0, 0.2); background-color: rgba(0, 0, 0, 0.04);">
+                            <ui:ScrollView name="ScrollView" style="max-height: 450px; padding-left: 5px; border-bottom-width: 1px; border-bottom-color: rgba(0, 0, 0, 0.2);">
+                                <ui:GroupBox name="RanksListContainer" style="margin-top: 10px; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" />
+                            </ui:ScrollView>
+                            <ui:GroupBox style="margin-top: 5px; margin-right: 15px; margin-bottom: 5px; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; flex-direction: row; align-items: center; justify-content: flex-end;">
+                                <ui:GroupBox style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-left-color: rgba(0, 0, 0, 0.39); border-right-color: rgba(0, 0, 0, 0.39); border-top-color: rgba(0, 0, 0, 0.39); border-bottom-color: rgba(0, 0, 0, 0.39); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;">
+                                    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" name="NewRankButton" tooltip="Create new rank" style="width: 30px; min-height: 30px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; align-items: center; justify-content: center; max-height: 30px; border-top-color: rgba(255, 255, 255, 0.12); border-left-color: rgba(255, 255, 255, 0.12);">
+                                        <ui:VisualElement class="plus-icon" style="width: 15px; height: 15px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" />
+                                    </ui:Button>
+                                </ui:GroupBox>
+                            </ui:GroupBox>
+                        </ui:GroupBox>
+                    </ui:GroupBox>
+                </ui:GroupBox>
+                <ui:GroupBox name="CustomContent" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; display: none;">
+                    <ui:GroupBox style="flex-direction: row; margin-top: 0; padding-top: 0; margin-bottom: 10px;">
+                        <ui:TextField picking-mode="Ignore" value="State" name="StateSaveNameInputField" view-data-key="StateSaveNameInputField" tooltip="State Name" style="margin-right: 3px; margin-top: 3px; margin-left: 3px; flex-grow: 1;" />
+                        <ui:Button text="Save" parse-escape-sequences="true" display-tooltip-when-elided="true" name="SaveStateButton" style="flex-grow: 1; max-width: 100px;" />
+                    </ui:GroupBox>
+                    <ui:Foldout text="Icon" view-data-key="IconsFoldout" style="margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px;">
+                        <ui:GroupBox name="IconButtonsContainer" class="buttons-container" />
+                        <ui:GroupBox name="IconsPrimaryMaterialsFoldout" tooltip="The material used by most icons." class="custom-foldout" style="display: flex; margin-top: 10px; margin-right: 5px; margin-left: 5px;">
+                            <ui:GroupBox name="Header" class="header" style="background-color: rgba(255, 255, 255, 0.1);">
+                                <ui:Toggle name="FoldoutToggle" text="Primary Material" class="unity-foldout__toggle foldout-toggle" />
+                                <uie:ObjectField type="UnityEngine.Material, UnityEngine.CoreModule" name="PrimaryIconsMaterialObjectField" style="flex-grow: 1; margin-right: 5px;" />
+                                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Open Documentation" name="CustomizeTab_OpenDocumentation_PrimaryMaterials" class="icon-button documentation-button" style="width: 15px; min-height: 15px; justify-content: center; margin-left: 0;">
+                                    <ui:VisualElement class="documentation-icon icon" />
+                                </ui:Button>
+                            </ui:GroupBox>
+                            <ui:GroupBox name="Content" class="content" style="padding-top: 0; padding-right: 0; padding-bottom: 5px; padding-left: 0;">
+                                <ui:GroupBox name="MaterialsContainer" class="buttons-container" />
+                            </ui:GroupBox>
+                        </ui:GroupBox>
+                        <ui:GroupBox name="IconsSecondaryMaterialsFoldout" tooltip="The material used by most icons." class="custom-foldout" style="display: flex; margin-right: 5px; margin-left: 5px;">
+                            <ui:GroupBox name="Header" class="header" style="background-color: rgba(255, 255, 255, 0.1);">
+                                <ui:Toggle name="FoldoutToggle" text="Secondary Material" class="unity-foldout__toggle foldout-toggle" />
+                                <uie:ObjectField type="UnityEngine.Material, UnityEngine.CoreModule" name="SecondaryIconsMaterialObjectField" style="flex-grow: 1; margin-right: 5px;" />
+                                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Open Documentation" name="CustomizeTab_OpenDocumentation_SecondaryMaterials" class="icon-button documentation-button" style="width: 15px; min-height: 15px; justify-content: center; margin-left: 0;">
+                                    <ui:VisualElement class="documentation-icon icon" />
+                                </ui:Button>
+                            </ui:GroupBox>
+                            <ui:GroupBox name="Content" class="content" style="padding-top: 0; padding-right: 0; padding-bottom: 5px; padding-left: 0;">
+                                <ui:GroupBox name="MaterialsContainer" class="buttons-container" />
+                            </ui:GroupBox>
+                        </ui:GroupBox>
+                    </ui:Foldout>
+                    <ui:Foldout text="Border" view-data-key="BodyViewDataKey" style="margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px;">
+                        <ui:GroupBox name="BorderAnimationTestingGroupBox" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                            <ui:Label tabindex="-1" text="For Testing Only - Doesn&apos;t Update Rank" parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Modify it via Sets tab to Apply" class="title-group-title-label" />
+                            <ui:GroupBox style="flex-direction: column; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                                <ui:EnumField label="Entry Animation" type="TinyGiantStudio.Ranks.EntryAnimationType, TinyGiantStudio.Ranks" name="BorderEntryAnimationField" />
+                                <ui:EnumField label="Exit Animation" type="TinyGiantStudio.Ranks.ExitAnimationType, TinyGiantStudio.Ranks" name="BorderExitAnimationField" tooltip="How previous state&apos;s border will exit" />
+                            </ui:GroupBox>
+                        </ui:GroupBox>
+                        <ui:GroupBox name="BordersContainer" tooltip="Set Border" class="buttons-container" />
+                        <ui:GroupBox name="BorderMaterialsFoldout" tooltip="The material used by most icons." class="custom-foldout" style="margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px; display: flex;">
+                            <ui:GroupBox name="Header" class="header" style="background-color: rgba(255, 255, 255, 0.1);">
+                                <ui:Toggle name="FoldoutToggle" text="Material" class="unity-foldout__toggle foldout-toggle" />
+                                <uie:ObjectField type="UnityEngine.Material, UnityEngine.CoreModule" name="BorderMaterialObjectField" style="flex-grow: 1; margin-right: 5px;" />
+                                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Open Documentation" name="CustomizeTab_OpenDocumentation_BorderMaterials" class="icon-button documentation-button" style="width: 15px; min-height: 15px; justify-content: center; margin-left: 0;">
+                                    <ui:VisualElement class="documentation-icon icon" />
+                                </ui:Button>
+                            </ui:GroupBox>
+                            <ui:GroupBox name="Content" class="content" style="padding-top: 0; padding-right: 0; padding-bottom: 5px; padding-left: 0;">
+                                <ui:GroupBox name="MaterialsContainer" class="buttons-container" />
+                            </ui:GroupBox>
+                        </ui:GroupBox>
+                    </ui:Foldout>
+                    <ui:Foldout text="Inside" view-data-key="InsideViewDataKey" name="InsidesFoldout" style="margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px;">
+                        <ui:GroupBox name="InsideAnimationTestingGroupBox" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                            <ui:Label tabindex="-1" text="For Testing Only - Doesn&apos;t Update Set" parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Modify it via Sets tab to Apply" class="title-group-title-label" />
+                            <ui:GroupBox style="flex-direction: column; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                                <ui:EnumField label="Entry Animation" type="TinyGiantStudio.Ranks.EntryAnimationType, TinyGiantStudio.Ranks" name="InsideEntryAnimationField" />
+                                <ui:EnumField label="Exit Animation" type="TinyGiantStudio.Ranks.ExitAnimationType, TinyGiantStudio.Ranks" name="InsideExitAnimationField" tooltip="How previous state&apos;s border will exit" />
+                            </ui:GroupBox>
+                        </ui:GroupBox>
+                        <ui:GroupBox name="InsidesContainer" class="buttons-container" />
+                        <ui:GroupBox name="InsideMaterialsFoldout" tooltip="The material used by most icons." class="custom-foldout" style="margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px; display: flex;">
+                            <ui:GroupBox name="Header" class="header" style="background-color: rgba(255, 255, 255, 0.1);">
+                                <ui:Toggle name="FoldoutToggle" text="Material" class="unity-foldout__toggle foldout-toggle" />
+                                <uie:ObjectField type="UnityEngine.Material, UnityEngine.CoreModule" name="InsideMaterialObjectField" style="flex-grow: 1; margin-right: 5px;" />
+                                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Open Documentation" name="CustomizeTab_OpenDocumentation_InsideMaterials" class="icon-button documentation-button" style="width: 15px; min-height: 15px; justify-content: center; margin-left: 0;">
+                                    <ui:VisualElement class="documentation-icon icon" />
+                                </ui:Button>
+                            </ui:GroupBox>
+                            <ui:GroupBox name="Content" class="content" style="padding-top: 0; padding-right: 0; padding-bottom: 5px; padding-left: 0;">
+                                <ui:GroupBox name="MaterialsContainer" class="buttons-container" />
+                            </ui:GroupBox>
+                        </ui:GroupBox>
+                    </ui:Foldout>
+                    <ui:Foldout text="Wings" style="margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px;">
+                        <ui:GroupBox name="WingsContainer" class="buttons-container" />
+                        <ui:GroupBox name="WingsMaterialFoldout" tooltip="The material used by most icons." class="custom-foldout" style="margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px; display: flex;">
+                            <ui:GroupBox name="Header" class="header" style="background-color: rgba(255, 255, 255, 0.1);">
+                                <ui:Toggle name="FoldoutToggle" text="Material" class="unity-foldout__toggle foldout-toggle" />
+                                <uie:ObjectField type="UnityEngine.Material, UnityEngine.CoreModule" name="WingsMaterialObjectField" style="flex-grow: 1; margin-right: 5px;" />
+                                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Open Documentation" name="CustomizeTab_OpenDocumentation_WingsMaterials" class="icon-button documentation-button" style="width: 15px; min-height: 15px; justify-content: center; margin-left: 0;">
+                                    <ui:VisualElement class="documentation-icon icon" />
+                                </ui:Button>
+                            </ui:GroupBox>
+                            <ui:GroupBox name="Content" class="content" style="padding-top: 0; padding-right: 0; padding-bottom: 5px; padding-left: 0;">
+                                <ui:GroupBox name="MaterialsContainer" class="buttons-container" />
+                            </ui:GroupBox>
+                        </ui:GroupBox>
+                    </ui:Foldout>
+                    <ui:Foldout text="Addons" view-data-key="AddonsViewDataKey" style="display: none;">
+                        <ui:GroupBox name="AddonsContainer" class="buttons-container" />
+                    </ui:Foldout>
+                    <ui:GroupBox style="align-items: flex-end; margin-top: 5px; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                        <ui:Button text="Reset Everything" parse-escape-sequences="true" display-tooltip-when-elided="true" name="RemoveEverythingButton" style="min-height: 30px;" />
+                    </ui:GroupBox>
+                </ui:GroupBox>
+                <ui:GroupBox name="SettingsContent" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; display: flex;">
+                    <ui:Foldout text="Base Animation" view-data-key="SpawnAnimationsFoldout" name="SpawnAnimationsContainer" tooltip="Animations that are played at the root of the object when this is first enabled/instantiated. Zero is no animation." style="margin-top: 0;">
+                        <ui:SliderInt high-value="3" label="On Enable Animation" show-input-field="true" binding-path="defaultSpawnAnimation" name="OnEnableBaseAnimationSlider" style="margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px;" />
+                        <ui:GroupBox name="SpawnAnimationButtons" tooltip="Test Different Spawn Animations" class="buttons-container" />
+                    </ui:Foldout>
+                    <ui:Foldout text="Particles" view-data-key="ParticlesFoldout" style="margin-top: 5px;">
+                        <uie:PropertyField binding-path="enableUpgradeEffect" />
+                        <uie:PropertyField binding-path="upgradeParticle" style="margin-left: 20px;" />
+                        <uie:PropertyField binding-path="upgradeVisualEffect" style="margin-left: 20px;" />
+                        <uie:PropertyField binding-path="enableDowngradeEffect" style="margin-top: 10px;" />
+                        <uie:PropertyField binding-path="downgradeParticle" style="margin-left: 20px;" />
+                        <uie:PropertyField binding-path="downgradeVisualEffect" style="margin-left: 20px;" />
+                    </ui:Foldout>
+                    <ui:Foldout text="Inspector Settings" value="false" style="margin-top: 20px;">
+                        <ui:Toggle label="References Tab" name="ShowReferencesTab" value="false" view-data-key="ReferencesTabViewDataKey" />
+                        <ui:Toggle label="Debug Tab" name="ShowDebugTab" value="false" view-data-key="DebugTabViewDataKey" />
+                    </ui:Foldout>
+                    <ui:GroupBox style="align-items: flex-end;">
+                        <ui:Button text="Check out our other awesome assets!" parse-escape-sequences="true" display-tooltip-when-elided="true" name="AssetStoreLink" class="url-button" />
+                    </ui:GroupBox>
+                </ui:GroupBox>
+                <ui:GroupBox name="ReferenceTabContent" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; display: none;">
+                    <ui:Label tabindex="-1" text="Modifying this reference may cause unexpected behavior. Please avoid making changes unless necessary. For some changes, you need to deselect and reselect this to update." parse-escape-sequences="true" display-tooltip-when-elided="true" class="warning-label" style="margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px; overflow: hidden; text-overflow: ellipsis; white-space: normal;" />
+                    <uie:PropertyField binding-path="materials" tooltip="Materials that are available as quick shortcut. Please de-select and select this object again to update the buttons after materials change." />
+                    <ui:GroupBox style="margin-top: 5px; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; flex-direction: row;">
+                        <ui:IntegerField value="5" name="BaseAnimationCounterField" binding-path="baseAnimationsCount" label="Base Animation Count" tooltip="By default, it should be 5" style="flex-grow: 1;" />
+                        <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Open Documentation" name="OpenDocumentation_BaseAnimationSettings" class="icon-button documentation-button" style="width: 15px; min-height: 15px; justify-content: center;">
+                            <ui:VisualElement class="documentation-icon icon" />
+                        </ui:Button>
+                    </ui:GroupBox>
+                    <uie:PropertyField binding-path="root" />
+                    <ui:Foldout text="Icon" view-data-key="iconsSettingsFoldout" style="margin-bottom: 10px; margin-top: 10px;">
+                        <uie:PropertyField binding-path="iconAnimator" />
+                        <uie:PropertyField binding-path="iconAnimationClips" />
+                        <uie:PropertyField binding-path="iconsPrimary" />
+                        <uie:PropertyField binding-path="iconsSecondary" />
+                        <ui:GroupBox style="margin-top: 5px; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; flex-direction: row;">
+                            <ui:IntegerField value="0" name="IconAnimationCounterField" binding-path="iconsAmount" label="Icon Count" tooltip="The total number of icon animations excluding none. It should be 10 by default." style="flex-grow: 1;" />
+                            <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Open Documentation" name="OpenDocumentation_CreateIconAnimation" class="icon-button documentation-button" style="width: 15px; min-height: 15px; justify-content: center;">
+                                <ui:VisualElement class="documentation-icon icon" />
+                            </ui:Button>
+                        </ui:GroupBox>
+                    </ui:Foldout>
+                    <ui:Foldout text="Border" style="margin-bottom: 10px;">
+                        <uie:ObjectField label="Mesh Filter" binding-path="border" type="UnityEngine.MeshFilter, UnityEngine.CoreModule" style="flex-shrink: 1; flex-grow: 1;" />
+                        <uie:ObjectField label="Renderer" binding-path="borderRenderer" type="UnityEngine.MeshRenderer, UnityEngine.CoreModule" style="flex-shrink: 1; flex-grow: 1;" />
+                    </ui:Foldout>
+                    <ui:Foldout text="Inside" style="margin-bottom: 10px;">
+                        <uie:ObjectField label="Mesh Filter" binding-path="inside" type="UnityEngine.MeshFilter, UnityEngine.CoreModule" style="flex-shrink: 1; flex-grow: 1;" />
+                        <uie:ObjectField label="Renderer" binding-path="insideRenderer" type="UnityEngine.MeshRenderer, UnityEngine.CoreModule" style="flex-shrink: 1; flex-grow: 1; margin-bottom: 10px;" />
+                    </ui:Foldout>
+                    <uie:PropertyField binding-path="bodies" />
+                    <uie:PropertyField binding-path="wings" tooltip="If holder is null, buttons for it will not be created." style="flex-grow: 1;" />
+                    <uie:PropertyField binding-path="addons" />
+                </ui:GroupBox>
+                <ui:GroupBox name="DebugContent" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; display: none;">
+                    <ui:Label tabindex="-1" text="It is better to avoid changing things here because the inspector UI won&apos;t be auto updated. You can deselect and reselect to update the inspector after changing from this tab." parse-escape-sequences="true" display-tooltip-when-elided="true" class="unfocused-information-label" style="margin-top: 5px; margin-right: 5px; margin-bottom: 5px; margin-left: 5px; overflow: hidden; text-overflow: ellipsis; white-space: normal;" />
+                    <uie:PropertyField binding-path="currentRank" name="CurrentRankField" style="margin-right: 0; margin-bottom: 15px; margin-left: 0; margin-top: 0;" />
+                    <uie:PropertyField binding-path="ranks" />
+                    <uie:PropertyField binding-path="currentRankIndex" />
+                </ui:GroupBox>
+            </ui:GroupBox>
+        </ui:GroupBox>
+    </ui:GroupBox>
+</ui:UXML>

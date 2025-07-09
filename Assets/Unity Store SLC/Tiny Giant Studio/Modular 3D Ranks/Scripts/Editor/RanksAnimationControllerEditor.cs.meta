@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 02be82c343f2e704fa12f303e5d1803b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - visualTreeAsset: {fileID: 9197481963319205126, guid: cc876b283f3f7d24bb241712cbbe2930,
+      type: 3}
+  - rankSetAsset: {fileID: 9197481963319205126, guid: a6bd4e8265934da4490479760fc25908,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314021
+  packageName: Modular 3D Ranks
+  packageVersion: 1.0
+  assetPath: Assets/Tiny Giant Studio/Modular 3D Ranks/Scripts/Editor/RanksAnimationControllerEditor.cs
+  uploadId: 751868

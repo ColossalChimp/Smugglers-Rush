@@ -1,0 +1,77 @@
+.delete-icon {
+    background-image: var(--unity-icons-clear);
+}
+
+.delete-icon:hover {
+    -unity-background-image-tint-color: var(--unity-colors-error-text);
+}
+
+.moveUp-icon {
+    width: 17px;
+    height: 17px;
+    background-image: var(--unity-icons-scroll_up);
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    background-color: rgba(0, 0, 0, 0);
+    opacity: 0.5;
+    transition-duration: 0.25s;
+}
+
+.moveUp-icon:hover {
+    opacity: 1;
+}
+
+.moveDown-icon {
+    width: 17px;
+    height: 17px;
+    background-image: var(--unity-icons-scroll_down);
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    background-color: rgba(0, 0, 0, 0);
+    opacity: 0.5;
+    transition-duration: 0.25s;
+}
+
+.moveDown-icon:hover {
+    opacity: 1;
+}
+
+.settings-icon {
+    background-image: url("project://database/Assets/Tiny%20Giant%20Studio/Modular%203D%20Ranks/Editor%20Icons/TGS_Ranks_Icon_Setting.png?fileID=2800000&guid=4444a6fd45bdad34ab40bc84379eb4a9&type=3#TGS_Ranks_Icon_Setting");
+}
+
+.customize-icon {
+    background-image: var(--unity-icons-window_button_max);
+}
+
+.state-icon {
+    background-image: var(--unity-icons-window_button_restore);
+}
+
+.documentation-icon {
+    background-image: url("project://database/Assets/Tiny%20Giant%20Studio/Modular%203D%20Ranks/Editor%20Icons/TGS_Ranks_Icon_Documentation.png?fileID=2800000&guid=9403184540696754eb3e2c981ed39a18&type=3#TGS_Ranks_Icon_Documentation");
+}
+
+.debug-icon {
+    background-image: var(--unity-icons-search);
+}
+
+.plus-icon {
+    background-image: var(--unity-icons-plus);
+}
+
+.plus-icon:hover {
+    background-image: var(--unity-icons-plus-hover);
+}
+
+.duplicate-icon {
+    background-image: url("project://database/Assets/Tiny%20Giant%20Studio/Modular%203D%20Ranks/Editor%20Icons/TGS_Ranks_Icon_Duplicate.png?fileID=2800000&guid=848f926dc5466374abbbc985f21d34bc&type=3#TGS_Ranks_Icon_Duplicate");
+}
+
+.reference-icon {
+    background-image: var(--unity-icons-link-checked);
+}

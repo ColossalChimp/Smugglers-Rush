@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 023330564f43c4d5c8c7c13f7ff35a7f
 timeCreated: 1487768817
-licenseType: Store
+licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -14,6 +14,8 @@ ModelImporter:
     100012: Wheel_9A_F.R
     100014: Wheel_9A_R.L
     100016: Wheel_9A_R.R
+    100018: Light_Red.004
+    100020: Light_Red_1.001
     400000: //RootNode
     400002: Door_9A_R.L
     400004: Door_9A_R.R
@@ -23,6 +25,8 @@ ModelImporter:
     400012: Wheel_9A_F.R
     400014: Wheel_9A_R.L
     400016: Wheel_9A_R.R
+    400018: Light_Red.004
+    400020: Light_Red_1.001
     2300000: //RootNode
     2300002: Door_9A_R.L
     2300004: Door_9A_R.R
@@ -32,6 +36,8 @@ ModelImporter:
     2300012: Wheel_9A_F.R
     2300014: Wheel_9A_R.L
     2300016: Wheel_9A_R.R
+    2300018: Light_Red.004
+    2300020: Light_Red_1.001
     3300000: //RootNode
     3300002: Door_9A_R.L
     3300004: Door_9A_R.R
@@ -41,6 +47,8 @@ ModelImporter:
     3300012: Wheel_9A_F.R
     3300014: Wheel_9A_R.L
     3300016: Wheel_9A_R.R
+    3300018: Light_Red.004
+    3300020: Light_Red_1.001
     4300000: Car_9A
     4300002: Door_9A_R.R
     4300004: Door_9A_R.L
@@ -50,6 +58,8 @@ ModelImporter:
     4300012: Wheel_9A_F.L
     4300014: Light_Red_1
     4300016: Light_Red
+    4300018: Light_Red_1.001
+    4300020: Light_Red.004
   materials:
     importMaterials: 1
     materialName: 0

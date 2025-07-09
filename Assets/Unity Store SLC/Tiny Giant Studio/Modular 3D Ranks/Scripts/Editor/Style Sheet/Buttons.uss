@@ -1,0 +1,74 @@
+.icon-button {
+    width: 12px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    background-color: rgba(0, 0, 0, 0);
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    min-height: 12px;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.9;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}
+
+.icon-button:hover {
+    background-color: var(--unity-colors-button-background);
+    opacity: 1;
+    border-left-color: rgba(255, 255, 255, 0.06);
+    border-right-color: rgba(255, 255, 255, 0.06);
+    border-top-color: rgba(255, 255, 255, 0.06);
+    border-bottom-color: rgba(255, 255, 255, 0.06);
+}
+
+.icon-button .icon {
+    width: 11px;
+    height: 11px;
+}
+
+.documentation-button {
+    margin-left: 5px;
+}
+
+.text-button {
+    background-color: rgba(0, 0, 0, 0);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+}
+
+.text-button:hover {
+    background-color: var(--unity-colors-app_toolbar_button-background);
+}
+
+.icon-button:active {
+    background-color: var(--unity-colors-link-text);
+}
+
+.url-button {
+    background-color: rgba(0, 0, 0, 0);
+    border-top-width: 0;
+    border-right-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    -unity-font-style: italic;
+    opacity: 0.7;
+    color: var(--unity-colors-link-text);
+}
+
+.url-button:hover {
+    opacity: 1;
+    -unity-font-style: bold-and-italic;
+}

@@ -1,0 +1,145 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/3D%20Ranks/Scripts/Editor/Style%20Sheet/Labels.uss?fileID=7433441132597879392&amp;guid=dcd13f87c24833640bf71281d22e3320&amp;type=3#Labels" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/3D%20Ranks/Scripts/Editor/Style%20Sheet/Icons.uss?fileID=7433441132597879392&amp;guid=e4e445490ebe3894d852dfa930823a4f&amp;type=3#Icons" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/3D%20Ranks/Scripts/Editor/Style%20Sheet/CustomFoldout.uss?fileID=7433441132597879392&amp;guid=f0065dc86a0f64b43873ddab0c11246f&amp;type=3#CustomFoldout" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/3D%20Ranks/Scripts/Editor/Style%20Sheet/RanksEditorStyleSheet.uss?fileID=7433441132597879392&amp;guid=20f7fa31bc9cca44d888e20be2a43e9f&amp;type=3#RanksEditorStyleSheet" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/3D%20Ranks/Scripts/Editor/Style%20Sheet/Tabs.uss?fileID=7433441132597879392&amp;guid=24cb084b5bf8509489f32f1237f9a120&amp;type=3#Tabs" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/3D%20Ranks/Scripts/Editor/Style%20Sheet/Containers.uss?fileID=7433441132597879392&amp;guid=4449153119329164681edfb14052bdd9&amp;type=3#Containers" />
+    <Style src="project://database/Assets/Tiny%20Giant%20Studio/3D%20Ranks/Scripts/Editor/Style%20Sheet/Buttons.uss?fileID=7433441132597879392&amp;guid=dd020c7ac6070d74280f0ecff0aaa31d&amp;type=3#Buttons" />
+    <ui:GroupBox name="RankMainGroupBox" class="custom-foldout" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; display: flex;">
+        <ui:GroupBox name="Header" class="header" style="background-color: rgba(255, 255, 255, 0.1);">
+            <ui:Toggle name="FoldoutToggle" text="1." class="unity-foldout__toggle foldout-toggle" style="align-items: center; justify-content: center; min-width: 50px; max-width: 50px;" />
+            <ui:GroupBox style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 2px; padding-right: 5px; padding-bottom: 3px; padding-left: 0; flex-grow: 1; border-right-width: 1px; border-right-color: rgba(0, 0, 0, 0.39); display: flex;">
+                <ui:TextField picking-mode="Ignore" value="filler text" name="NameField" style="flex-grow: 1; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; -unity-text-align: middle-center; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; border-right-color: rgba(0, 0, 0, 0.39);" />
+            </ui:GroupBox>
+            <ui:Button text="Apply" parse-escape-sequences="true" display-tooltip-when-elided="true" name="ApplyButton" style="-unity-text-align: middle-center; border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; -unity-font-style: normal; border-left-width: 1px; border-left-color: rgba(255, 255, 255, 0.1); padding-right: 25px; padding-left: 25px; border-right-color: rgba(0, 0, 0, 0.39); border-right-width: 1px; border-top-width: 0; border-bottom-width: 0; display: flex; padding-top: 7px; padding-bottom: 7px;" />
+            <ui:Button display-tooltip-when-elided="true" tooltip="Delete this Set" name="RemoveButton" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; width: 30px; align-items: center; justify-content: center; border-right-width: 0; border-right-color: rgba(0, 0, 0, 0.39); border-top-left-radius: 0; border-top-right-radius: 0; border-bottom-right-radius: 0; border-bottom-left-radius: 0; border-left-color: rgba(255, 255, 255, 0.1); border-left-width: 1px; border-top-width: 0; border-bottom-width: 0; display: flex;">
+                <ui:VisualElement class="delete-icon" style="width: 17px; height: 17px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;" />
+            </ui:Button>
+        </ui:GroupBox>
+        <ui:GroupBox name="Content" class="content" style="padding-top: 0; padding-right: 0; padding-bottom: 15px; padding-left: 0;">
+            <uie:Toolbar style="margin-top: 0; padding-top: 5px; padding-left: 3px; padding-bottom: 2px; height: auto;">
+                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Move Upwards" name="MoveUpButton" class="moveUp-icon" style="padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;" />
+                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Move Below" name="MoveDownButton" class="moveDown-icon" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;" />
+                <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" tooltip="Duplicate" name="DuplicateButton" class="duplicate-icon icon-button" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 10px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; width: 14px; height: 14px; opacity: 0.5;" />
+            </uie:Toolbar>
+            <ui:GroupBox tooltip="The material used by most icons." name="IconsFoldout" class="custom-foldout" style="display: flex; margin-top: 10px; margin-right: 10px; margin-bottom: 0; margin-left: 10px;">
+                <ui:GroupBox name="Header" class="header" style="background-color: rgba(255, 255, 255, 0.1); padding-right: 5px;">
+                    <ui:Toggle name="FoldoutToggle" text="Icon" class="unity-foldout__toggle foldout-toggle" style="flex-grow: 1;" />
+                    <ui:DropdownField choices="1" index="0" name="IconDropDownField" tooltip="Icon Number" />
+                    <uie:ObjectField type="UnityEngine.Material, UnityEngine.CoreModule" name="IconPrimaryMaterialField" tooltip="Primary Icon Material" />
+                    <uie:ObjectField type="UnityEngine.Material, UnityEngine.CoreModule" name="IconSecondaryMaterialField" tooltip="Secondary Icon Used in 10 Icon" />
+                </ui:GroupBox>
+                <ui:GroupBox name="Content" class="content" style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;">
+                    <ui:Label tabindex="-1" text="Old Icon Exit" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+                    <ui:GroupBox style="border-left-width: 1px; border-left-color: rgba(255, 255, 255, 0.12); margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                        <ui:FloatField label="Animation Start Delay" value="42.2" tooltip="How long it would wait before the last icon is removed." name="IconOptOutDelay" />
+                        <uie:ObjectField label="Sound Effect" type="UnityEngine.AudioClip, UnityEngine.AudioModule" name="OldIconExitAudioClip" tooltip="This is only played if New Icon Entry Start Delay is more than 0.25 seconds." style="margin-bottom: 7px;" />
+                    </ui:GroupBox>
+                    <ui:Label tabindex="-1" text="New Icon Entry" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+                    <ui:GroupBox style="border-left-width: 1px; border-left-color: rgba(255, 255, 255, 0.12); margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                        <ui:FloatField label="Animation Start Delay" value="42.2" tooltip="How long it would wait before the new icon is added. If this isn&apos;t 0, the minimum is 0.25 and the recommended is 0.5 for it to show no icon between old icon and the new icon." name="IconOptInDelay" />
+                        <uie:ObjectField label="Sound Effect" type="UnityEngine.AudioClip, UnityEngine.AudioModule" name="NewIconEntryAudioClip" />
+                    </ui:GroupBox>
+                </ui:GroupBox>
+            </ui:GroupBox>
+            <ui:GroupBox tooltip="The material used by most icons." name="BorderFoldout" class="custom-foldout" style="display: flex; margin-top: 10px; margin-right: 10px; margin-bottom: 0; margin-left: 10px;">
+                <ui:GroupBox name="Header" class="header" style="background-color: rgba(255, 255, 255, 0.1); padding-right: 5px;">
+                    <ui:Toggle name="FoldoutToggle" text="Border" class="unity-foldout__toggle foldout-toggle" style="flex-grow: 1;" />
+                    <ui:DropdownField choices="1" index="0" name="BorderDropDownField" />
+                    <uie:ObjectField type="UnityEngine.Material, UnityEngine.CoreModule" name="BorderMaterialField" />
+                </ui:GroupBox>
+                <ui:GroupBox name="Content" class="content" style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;">
+                    <ui:EnumField label="Old Border Exit Animation" type="TinyGiantStudio.Ranks.ExitAnimationType, TinyGiantStudio.Ranks" name="BorderExitAnimation" tooltip="How the last border will exit." />
+                    <ui:GroupBox style="margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 5px; border-left-color: rgba(255, 255, 255, 0.12); border-left-width: 1px;">
+                        <ui:FloatField label="Animation  Delay" value="42.2" name="OldBorderExitAnimationStartDelay" tooltip="How long to wait before old border exit animation starts" />
+                        <ui:GroupBox name="BorderExitAnimationPhysicsGroupbox" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                            <ui:GroupBox name="FracturedPiecesLifeTimeGroupbox" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; flex-direction: row;">
+                                <ui:Label tabindex="-1" text="Fractured Pieces Lifetime" parse-escape-sequences="true" display-tooltip-when-elided="true" class="unity-base-field__label" style="overflow: hidden; margin-left: 4px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; -unity-text-align: middle-left;" />
+                                <ui:FloatField value="9999999" name="Minimum" style="max-width: 42px; overflow: hidden;" />
+                                <ui:MinMaxSlider min-value="20" max-value="30" low-limit="0.25" high-limit="120" name="FracturedPiecesLifeTimeSlider" style="flex-grow: 1;" />
+                                <ui:FloatField value="9999999" name="Maximum" style="max-width: 42px;" />
+                            </ui:GroupBox>
+                            <ui:GroupBox name="ExplosionGroupBox" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                                <ui:FloatField label="Explosion Force" value="10" name="ExplosionForce" />
+                                <ui:FloatField label="Explosion Radius" value="3" name="ExplosionRadius" />
+                                <ui:FloatField label="Explosion Upwards Force" value="0.25" name="ExplosionUpwardsForce" />
+                            </ui:GroupBox>
+                        </ui:GroupBox>
+                        <uie:ObjectField label="Sound Effect" type="UnityEngine.AudioClip, UnityEngine.AudioModule" name="OldBorderExitAudioClip" style="margin-top: 7px;" />
+                        <ui:FloatField label="Audio Delay" value="42.2" name="OldBorderExitAudioClipDelay" tooltip="Should be same as Animation delay. But, you can modify it to sync to your audio clip. " />
+                    </ui:GroupBox>
+                    <ui:GroupBox name="BorderAnimationSettingsGroupBox" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                        <ui:EnumField label="New Border Entry Animation" type="TinyGiantStudio.Ranks.EntryAnimationType, TinyGiantStudio.Ranks" name="BorderEntryAnimation" tooltip="How the border of this state will appear." />
+                        <ui:GroupBox style="padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 5px; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px; border-left-color: rgba(255, 255, 255, 0.12); border-left-width: 1px;">
+                            <ui:FloatField label="Start Delay" value="42.2" name="NewBorderEntryAnimationStartDelay" tooltip="How long to wait before new border animation starts" />
+                            <uie:ObjectField label="Sound Effect" type="UnityEngine.AudioClip, UnityEngine.AudioModule" name="NewBorderEntryAudioClip" />
+                        </ui:GroupBox>
+                        <ui:Toggle label="Transition to Self" name="TransitionToSameBorder" tooltip="If false, it will avoid animation if the new border is the same as previous one. Doesn&apos;t check material change." style="margin-top: 10px;" />
+                    </ui:GroupBox>
+                </ui:GroupBox>
+            </ui:GroupBox>
+            <ui:GroupBox tooltip="The material used by most icons." name="InsideFoldout" class="custom-foldout" style="display: flex; margin-top: 10px; margin-right: 10px; margin-bottom: 0; margin-left: 10px;">
+                <ui:GroupBox name="Header" class="header" style="background-color: rgba(255, 255, 255, 0.1); padding-right: 5px;">
+                    <ui:Toggle name="FoldoutToggle" text="Inside" class="unity-foldout__toggle foldout-toggle" style="flex-grow: 1;" />
+                    <ui:DropdownField choices="1" index="0" name="InsideDropDownField" />
+                    <uie:ObjectField type="UnityEngine.Material, UnityEngine.CoreModule" name="InsideMaterialField" />
+                </ui:GroupBox>
+                <ui:GroupBox name="Content" class="content" style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;">
+                    <ui:EnumField label="Old Inside Exit Animation" type="TinyGiantStudio.Ranks.ExitAnimationType, TinyGiantStudio.Ranks" name="InsideExitAnimation" tooltip="How the last inside will exit." />
+                    <ui:GroupBox style="border-left-width: 1px; border-left-color: rgba(255, 255, 255, 0.12); padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 5px; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px;">
+                        <ui:FloatField label="Animation Delay" value="42.2" name="OldInsideExitAnimationStartDelay" tooltip="How long to wait before old inside removal animation starts" />
+                        <ui:GroupBox name="InsideExitAnimationPhysicsGroupbox" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                            <ui:GroupBox name="FracturedPiecesLifeTimeGroupbox" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; flex-direction: row;">
+                                <ui:Label tabindex="-1" text="Fractured Pieces Lifetime" parse-escape-sequences="true" display-tooltip-when-elided="true" class="unity-base-field__label" style="overflow: hidden; -unity-text-align: middle-left; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-left: 4px;" />
+                                <ui:FloatField value="9999999" name="Minimum" style="max-width: 42px; overflow: hidden;" />
+                                <ui:MinMaxSlider min-value="20" max-value="30" low-limit="0.25" high-limit="120" name="FracturedPiecesLifeTimeSlider" style="flex-grow: 1;" />
+                                <ui:FloatField value="9999999" name="Maximum" style="max-width: 42px;" />
+                            </ui:GroupBox>
+                            <ui:GroupBox name="ExplosionGroupBox" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                                <ui:FloatField label="Explosion Force" value="10" name="ExplosionForce" />
+                                <ui:FloatField label="Explosion Radius" value="3" name="ExplosionRadius" />
+                                <ui:FloatField label="Explosion Upwards Force" value="0.25" name="ExplosionUpwardsForce" />
+                            </ui:GroupBox>
+                        </ui:GroupBox>
+                        <uie:ObjectField label="Sound Effect" type="UnityEngine.AudioClip, UnityEngine.AudioModule" name="OldInsideExitAudioClip" style="margin-top: 7px;" />
+                        <ui:FloatField label="Audio Delay" value="42.2" name="OldInsideExitAudioClipDelay" tooltip="Should be same as Animation delay. But, you can modify it to sync to your audio clip. " />
+                    </ui:GroupBox>
+                    <ui:GroupBox name="InsideAnimationSettingsGroupBox" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                        <ui:EnumField label="New Inside Entry Animation" type="TinyGiantStudio.Ranks.EntryAnimationType, TinyGiantStudio.Ranks" name="InsideEntryAnimation" />
+                        <ui:GroupBox style="border-left-width: 1px; border-left-color: rgba(255, 255, 255, 0.12); padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 5px; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 10px;">
+                            <ui:FloatField label="New Start Delay" value="42.2" name="NewInsideEntryAnimationStartDelay" tooltip="How long to wait before new inside animation starts" />
+                            <uie:ObjectField label="Sound Effect" type="UnityEngine.AudioClip, UnityEngine.AudioModule" name="NewInsideEntryAudioClip" />
+                        </ui:GroupBox>
+                        <ui:Toggle label="Transition to Self" name="TransitionToSameInside" tooltip="If false, it will avoid animation if the new inside is the same as previous one.  Doesn&apos;t check material change." style="margin-top: 10px;" />
+                    </ui:GroupBox>
+                </ui:GroupBox>
+            </ui:GroupBox>
+            <ui:GroupBox tooltip="The material used by most icons." name="WingsFoldout" class="custom-foldout" style="display: flex; margin-top: 10px; margin-right: 10px; margin-bottom: 0; margin-left: 10px;">
+                <ui:GroupBox name="Header" class="header" style="background-color: rgba(255, 255, 255, 0.1); padding-right: 5px;">
+                    <ui:Toggle name="FoldoutToggle" text="Wings" class="unity-foldout__toggle foldout-toggle" style="flex-grow: 1;" />
+                    <ui:DropdownField choices="1" index="0" name="WingsDropDownField" />
+                    <uie:ObjectField type="UnityEngine.Material, UnityEngine.CoreModule" name="WingsMaterialField" />
+                </ui:GroupBox>
+                <ui:GroupBox name="Content" class="content" style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px;">
+                    <ui:Label tabindex="-1" text="Old Wing Exit Animation" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+                    <ui:GroupBox style="margin-top: 0; margin-right: 0; margin-bottom: 5px; margin-left: 10px; border-left-color: rgba(255, 255, 255, 0.12); border-left-width: 1px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 5px;">
+                        <ui:FloatField label="Start Delay " value="42.2" name="WingsOutAnimationStartDelay" />
+                        <ui:FloatField label="Movement Duration " value="42.2" name="WingsOutPositionAnimationDuration" />
+                        <uie:CurveField label="Movement Curve " tooltip="The animation curve that controls the way wings are moved to their correct position." name="WingsOutMovementCurveField" />
+                        <uie:ObjectField label="Sound Effect" type="UnityEngine.AudioClip, UnityEngine.AudioModule" name="OldWingsExitAudioClip" />
+                    </ui:GroupBox>
+                    <ui:GroupBox name="WingsAnimationSettingsGroupBox" style="margin-top: 10px; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0;">
+                        <ui:Label tabindex="-1" text="New Wing Entry Animation" parse-escape-sequences="true" display-tooltip-when-elided="true" />
+                        <ui:GroupBox style="margin-top: 0; margin-right: 0; margin-bottom: 5px; margin-left: 10px; border-left-color: rgba(255, 255, 255, 0.12); border-left-width: 1px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 5px;">
+                            <ui:FloatField label="Start Delay " value="42.2" name="WingsInAnimationStartDelay" />
+                            <ui:FloatField label="Movement Duration " value="42.2" name="WingsInPositionAnimationDuration" />
+                            <uie:CurveField label="Movement Curve " tooltip="The animation curve that controls the way wings are moved to their correct position." name="WingsInMovementCurveField" />
+                            <uie:ObjectField label="Sound Effect" type="UnityEngine.AudioClip, UnityEngine.AudioModule" name="NewWingsEntryAudioClip" />
+                        </ui:GroupBox>
+                    </ui:GroupBox>
+                </ui:GroupBox>
+            </ui:GroupBox>
+        </ui:GroupBox>
+    </ui:GroupBox>
+</ui:UXML>
