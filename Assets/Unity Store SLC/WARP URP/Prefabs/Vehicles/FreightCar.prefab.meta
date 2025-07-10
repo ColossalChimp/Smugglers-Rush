@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d3211edab5abac740a258faef9e04ec6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/FreightCar.prefab
+  uploadId: 709448

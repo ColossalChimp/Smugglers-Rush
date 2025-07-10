@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 562683ad48534e4fbfcac52b084fdaf0
+timeCreated: 1651683729
+AssetOrigin:
+  serializedVersion: 1
+  productId: 218635
+  packageName: Dialogue 2 | Game Creator 2 by Catsoft Works
+  packageVersion: 2.5.17
+  assetPath: Assets/Plugins/GameCreator/Packages/Dialogue/Runtime/VisualScripting/Conditions/ConditionDialogueTagVisited.cs
+  uploadId: 752803

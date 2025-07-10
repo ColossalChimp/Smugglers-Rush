@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aad5f2c07d63d1b4d80ccf71a50d41db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Weapons/Arrow.prefab
+  uploadId: 709448

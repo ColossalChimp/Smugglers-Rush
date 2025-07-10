@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2806b1b314ee08e4db9593e4bb86cbd6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Storage_DrawerLarge.prefab
+  uploadId: 709448

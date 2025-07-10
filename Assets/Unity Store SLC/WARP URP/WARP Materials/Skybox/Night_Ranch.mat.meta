@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83647666f6fd59f45b9256191c1592c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/WARP Materials/Skybox/Night_Ranch.mat
+  uploadId: 709448

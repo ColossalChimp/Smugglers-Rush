@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9dd68e5834f26fb47997b1a8a7b61124
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Rail_1x1x0.5.prefab
+  uploadId: 709448

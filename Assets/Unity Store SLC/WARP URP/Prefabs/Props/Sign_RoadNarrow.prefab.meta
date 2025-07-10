@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d92381d0bd033149a950a73ec47bd0c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sign_RoadNarrow.prefab
+  uploadId: 709448

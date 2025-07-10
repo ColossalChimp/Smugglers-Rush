@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 13814e288d00ccf43af34b41c680da6d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterA_Helmet_Tall.prefab
+  uploadId: 709448

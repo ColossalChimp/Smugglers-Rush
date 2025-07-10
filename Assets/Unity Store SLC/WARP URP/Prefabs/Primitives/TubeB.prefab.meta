@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 034d08d2337b5ae469bf2b5bb400a073
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/TubeB.prefab
+  uploadId: 709448

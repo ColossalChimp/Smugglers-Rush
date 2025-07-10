@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb0a5a8211ac825429dd191623f20573
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/ConeB.prefab
+  uploadId: 709448

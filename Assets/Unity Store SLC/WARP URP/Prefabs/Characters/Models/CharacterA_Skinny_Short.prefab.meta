@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8968f5ca4078c8b4c80c5caa5adf57d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Models/CharacterA_Skinny_Short.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a1e940f8582e5c438ddc5bc1f4c594e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Computer_Laptop.prefab
+  uploadId: 709448

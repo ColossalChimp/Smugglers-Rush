@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f623cfce4a61a34392327bc9fc9e980
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Tree_FirewoodCut.prefab
+  uploadId: 709448

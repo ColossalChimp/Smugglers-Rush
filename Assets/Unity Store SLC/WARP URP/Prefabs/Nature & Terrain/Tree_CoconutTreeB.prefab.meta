@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c996fee502e11b743b24798f661ec46c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Tree_CoconutTreeB.prefab
+  uploadId: 709448

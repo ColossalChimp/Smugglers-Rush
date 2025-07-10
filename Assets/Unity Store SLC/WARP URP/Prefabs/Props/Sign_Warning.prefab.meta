@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20e52bc0cb6528442bdd7896c69684ef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sign_Warning.prefab
+  uploadId: 709448

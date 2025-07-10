@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e1ae36dae219764ca12e21e2f4380f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/WindowFrame_Square_2x3.prefab
+  uploadId: 709448

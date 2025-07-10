@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 684fa1cabc5b5fa4b9f680139ebe4b38
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Containers_Jar.prefab
+  uploadId: 709448

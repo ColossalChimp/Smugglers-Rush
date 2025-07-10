@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5b3f4536cb63f643b6a257edcad0888
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Grass_ShortB.prefab
+  uploadId: 709448

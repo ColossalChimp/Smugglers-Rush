@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 91e559b00844cb841bc47cdec07502a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Curved.prefab
+  uploadId: 709448

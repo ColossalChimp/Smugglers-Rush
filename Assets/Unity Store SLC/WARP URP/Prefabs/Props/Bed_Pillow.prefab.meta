@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d128b3ff845a76d40be41a76e80ab073
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Bed_Pillow.prefab
+  uploadId: 709448

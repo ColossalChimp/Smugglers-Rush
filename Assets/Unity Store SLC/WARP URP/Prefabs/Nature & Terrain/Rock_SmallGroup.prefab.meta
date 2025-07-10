@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5d5fea6736df81a4b88a357ec8d39cd2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Rock_SmallGroup.prefab
+  uploadId: 709448

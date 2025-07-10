@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8744187720033945a1f8997be9e8d8c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/CornerWall_Angled_1x1x1.5.prefab
+  uploadId: 709448

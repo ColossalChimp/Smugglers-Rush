@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 41dca8f94006bd846880e075e1cae580
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sport_BaseballBat.prefab
+  uploadId: 709448

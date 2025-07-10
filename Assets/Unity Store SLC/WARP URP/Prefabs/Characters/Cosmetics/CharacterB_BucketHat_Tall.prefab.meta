@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd99f0920d28e564984e02cc438231cb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterB_BucketHat_Tall.prefab
+  uploadId: 709448

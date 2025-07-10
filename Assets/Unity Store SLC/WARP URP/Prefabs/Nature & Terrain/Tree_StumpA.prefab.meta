@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4cc81aa73e8cbde4d9900aaa7dda4101
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Tree_StumpA.prefab
+  uploadId: 709448

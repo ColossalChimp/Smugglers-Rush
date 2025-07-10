@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d08563c23b39b9244b7dfeaa7efe1174
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Target_Deer.prefab
+  uploadId: 709448

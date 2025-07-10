@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d2f613c0c953e148b8892ffc70e21d1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Table_CoffeeTable.prefab
+  uploadId: 709448

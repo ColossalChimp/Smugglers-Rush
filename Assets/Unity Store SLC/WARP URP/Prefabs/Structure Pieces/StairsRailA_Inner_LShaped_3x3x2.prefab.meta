@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db999ee1936f3ee4281873b4852dd3a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/StairsRailA_Inner_LShaped_3x3x2.prefab
+  uploadId: 709448

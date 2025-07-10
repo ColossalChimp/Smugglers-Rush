@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e98deebed929874e8f09d489e8549b4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Floor_Curve_1x1.prefab
+  uploadId: 709448

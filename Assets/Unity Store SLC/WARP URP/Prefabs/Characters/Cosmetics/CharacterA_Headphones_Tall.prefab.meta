@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7398e270e592874fa38a5ac997e7bc3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterA_Headphones_Tall.prefab
+  uploadId: 709448

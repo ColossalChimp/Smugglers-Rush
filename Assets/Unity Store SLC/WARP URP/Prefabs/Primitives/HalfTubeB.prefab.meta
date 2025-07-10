@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6968b01b912e40844b3f057887ff3ca3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/HalfTubeB.prefab
+  uploadId: 709448

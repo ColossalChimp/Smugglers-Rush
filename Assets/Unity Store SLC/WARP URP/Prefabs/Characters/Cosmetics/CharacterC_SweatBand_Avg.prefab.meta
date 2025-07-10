@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0818f423da09ee4e8d22367cd4a4254
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterC_SweatBand_Avg.prefab
+  uploadId: 709448

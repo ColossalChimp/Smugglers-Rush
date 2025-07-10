@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f69888817b0c7e4bb266bb1c83a03d1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Models/CharacterB_Buff_Tall.prefab
+  uploadId: 709448

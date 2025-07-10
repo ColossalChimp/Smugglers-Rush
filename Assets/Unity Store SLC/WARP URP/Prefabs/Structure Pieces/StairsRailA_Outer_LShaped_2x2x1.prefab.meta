@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f5c10dd8cd437e448e91489b5265e5a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/StairsRailA_Outer_LShaped_2x2x1.prefab
+  uploadId: 709448

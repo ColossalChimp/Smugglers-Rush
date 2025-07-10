@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ef3a26a1d089f94f8c5f40b4a6d0f8d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Rock_MediumC.prefab
+  uploadId: 709448

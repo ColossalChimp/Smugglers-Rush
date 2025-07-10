@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 297f759a8b573ab47937919b861a10fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Animals_Cow.prefab
+  uploadId: 709448

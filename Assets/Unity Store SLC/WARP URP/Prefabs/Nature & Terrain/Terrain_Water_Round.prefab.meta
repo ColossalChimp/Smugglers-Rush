@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1cdda900b9b1a234791a0d1ed47f2a9a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Terrain_Water_Round.prefab
+  uploadId: 709448

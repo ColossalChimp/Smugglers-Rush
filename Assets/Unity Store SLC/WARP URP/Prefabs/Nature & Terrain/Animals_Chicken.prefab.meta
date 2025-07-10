@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7897c86baaf15b84b8c0e9b61b63299b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Animals_Chicken.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e132ff345b99314db9868a9e8685919
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/TubeC.prefab
+  uploadId: 709448

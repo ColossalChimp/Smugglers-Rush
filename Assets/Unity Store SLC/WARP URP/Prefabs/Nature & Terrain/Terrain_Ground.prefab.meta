@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 41794e46f320cbe4d80ec175ed2969c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Terrain_Ground.prefab
+  uploadId: 709448

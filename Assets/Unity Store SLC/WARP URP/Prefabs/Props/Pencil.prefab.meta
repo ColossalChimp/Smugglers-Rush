@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7e8f76c2cec7374691aeae69f5bb51d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Pencil.prefab
+  uploadId: 709448

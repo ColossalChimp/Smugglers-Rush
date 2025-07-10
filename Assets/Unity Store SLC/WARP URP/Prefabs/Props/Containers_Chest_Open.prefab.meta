@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9509609e4b3c2e54a87736c8fae526b9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Containers_Chest_Open.prefab
+  uploadId: 709448

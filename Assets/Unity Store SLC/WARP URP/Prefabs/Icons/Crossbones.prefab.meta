@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af9f8f2b7315a16488c02309a3fad1ae
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Crossbones.prefab
+  uploadId: 709448

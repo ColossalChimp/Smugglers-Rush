@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5439a2f93ac9ade4eae8329f138b5b3c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/WindowFrame_Long_2x3.prefab
+  uploadId: 709448

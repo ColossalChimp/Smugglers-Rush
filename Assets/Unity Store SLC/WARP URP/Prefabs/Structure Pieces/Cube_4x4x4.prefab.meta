@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 335bc07c38718254fb8df0d1c9b7b33b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Cube_4x4x4.prefab
+  uploadId: 709448

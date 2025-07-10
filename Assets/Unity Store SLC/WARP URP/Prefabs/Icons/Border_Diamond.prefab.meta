@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0bcd1111b88f98c42bf4b485644bb13f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Border_Diamond.prefab
+  uploadId: 709448

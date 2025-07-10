@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0c63e1b1e6e984a4c805cdc322107bd7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Mic_Stand.prefab
+  uploadId: 709448

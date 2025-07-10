@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fa5e76dcdfb68742854ac991fb99430
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/BushB.prefab
+  uploadId: 709448

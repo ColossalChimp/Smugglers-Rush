@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b18a1f7d95226de4b9dd49ebe9bd09d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Skull.prefab
+  uploadId: 709448

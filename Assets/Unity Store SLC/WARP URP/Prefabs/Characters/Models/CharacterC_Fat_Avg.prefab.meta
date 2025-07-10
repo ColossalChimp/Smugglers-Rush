@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aba10d320a511e54d9867c2cd02282d4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Models/CharacterC_Fat_Avg.prefab
+  uploadId: 709448

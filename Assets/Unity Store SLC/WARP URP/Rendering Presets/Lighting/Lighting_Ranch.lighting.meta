@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35e3bdf14dd2b5348a2babc28f8e75bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Rendering Presets/Lighting/Lighting_Ranch.lighting
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc0954fd004e6e940a44e56d79282982
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/StairsRailA_Double_6x1x4.prefab
+  uploadId: 709448

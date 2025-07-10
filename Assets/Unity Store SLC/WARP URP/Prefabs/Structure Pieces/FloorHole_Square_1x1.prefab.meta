@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 307a585bd8268b74a95a167df9cbf588
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/FloorHole_Square_1x1.prefab
+  uploadId: 709448

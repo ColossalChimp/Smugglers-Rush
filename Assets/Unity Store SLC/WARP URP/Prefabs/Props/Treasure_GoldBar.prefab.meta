@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bb56f6e5d44e9a14d9d94bb03f1dcec8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Treasure_GoldBar.prefab
+  uploadId: 709448

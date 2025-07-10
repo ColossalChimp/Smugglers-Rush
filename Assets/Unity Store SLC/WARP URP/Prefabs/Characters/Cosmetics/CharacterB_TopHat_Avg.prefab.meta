@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3579af2276c0b0f41b7a1d0d17ebbc83
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterB_TopHat_Avg.prefab
+  uploadId: 709448

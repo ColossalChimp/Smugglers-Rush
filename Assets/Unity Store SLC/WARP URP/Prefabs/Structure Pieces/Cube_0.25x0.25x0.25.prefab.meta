@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d42b84e78a4bf54ba4e48f7874e0f8d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Cube_0.25x0.25x0.25.prefab
+  uploadId: 709448

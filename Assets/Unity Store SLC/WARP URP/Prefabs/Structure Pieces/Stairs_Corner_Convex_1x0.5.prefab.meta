@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c071f2bdadc2cfb499744eecf017b7e2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Stairs_Corner_Convex_1x0.5.prefab
+  uploadId: 709448

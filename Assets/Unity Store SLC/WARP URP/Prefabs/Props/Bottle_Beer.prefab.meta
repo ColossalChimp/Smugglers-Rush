@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e99e5899ea119643b285ab8e419c4e5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Bottle_Beer.prefab
+  uploadId: 709448

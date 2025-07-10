@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f41281933af92cf48a50be05392b0b80
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Containers_Vase_Normal.prefab
+  uploadId: 709448

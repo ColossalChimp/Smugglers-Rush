@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2ad1afb78b56b946800d9da2bd5a163
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Rock_BigC.prefab
+  uploadId: 709448

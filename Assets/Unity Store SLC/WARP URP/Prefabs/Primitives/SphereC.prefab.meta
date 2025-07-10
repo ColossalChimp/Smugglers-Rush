@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 761cbb64ef153fb40967dd23d6f72c82
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/SphereC.prefab
+  uploadId: 709448

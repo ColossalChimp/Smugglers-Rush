@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87b3ffe3f9f44f74d89806b4dd4f287e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Containers_Crate_Smashed.prefab
+  uploadId: 709448

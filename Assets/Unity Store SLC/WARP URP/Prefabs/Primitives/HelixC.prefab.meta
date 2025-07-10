@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb34689ec111ed74b84e520ecd124073
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/HelixC.prefab
+  uploadId: 709448

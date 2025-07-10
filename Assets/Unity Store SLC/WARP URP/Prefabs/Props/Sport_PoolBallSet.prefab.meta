@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b023aef0a1a0a2f46b2fb65bf4adbc8d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sport_PoolBallSet.prefab
+  uploadId: 709448

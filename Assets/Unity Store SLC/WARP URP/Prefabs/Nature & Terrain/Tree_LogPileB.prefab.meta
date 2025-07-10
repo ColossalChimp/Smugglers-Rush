@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10db60986b029e64b8ef36e18471a49a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Tree_LogPileB.prefab
+  uploadId: 709448

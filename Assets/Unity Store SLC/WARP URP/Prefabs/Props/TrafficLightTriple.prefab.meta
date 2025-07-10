@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1ce95ea2a953f134099e77e50e0c0402
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/TrafficLightTriple.prefab
+  uploadId: 709448

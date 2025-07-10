@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3c6a7975ed82034fbec897754e260f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Treasure_Diamond.prefab
+  uploadId: 709448

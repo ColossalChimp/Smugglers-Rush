@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a0c6e708f0109040b8fe693ae7e69ed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Kitchenware_Fridge.prefab
+  uploadId: 709448

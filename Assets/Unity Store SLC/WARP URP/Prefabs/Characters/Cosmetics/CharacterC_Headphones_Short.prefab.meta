@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89f1ab600de12f54ea9c425065da910a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterC_Headphones_Short.prefab
+  uploadId: 709448

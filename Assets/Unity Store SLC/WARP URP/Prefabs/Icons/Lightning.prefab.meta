@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd136593c2470694b8a4b66a4703c1b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Lightning.prefab
+  uploadId: 709448

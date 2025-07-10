@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a5fd8d4c57f72d4d8e1b55f09ec48fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sign_Octagon.prefab
+  uploadId: 709448

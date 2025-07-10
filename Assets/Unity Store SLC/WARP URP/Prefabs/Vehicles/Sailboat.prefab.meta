@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22e556925426de14b9fb7a74c942c3d5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/Sailboat.prefab
+  uploadId: 709448

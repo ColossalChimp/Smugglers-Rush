@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b97b1721d57639448844523e4b1fc43d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Terrain_Volcano.prefab
+  uploadId: 709448

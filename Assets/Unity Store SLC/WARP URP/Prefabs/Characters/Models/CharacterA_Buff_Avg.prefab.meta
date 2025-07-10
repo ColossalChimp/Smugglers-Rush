@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e801a2ba7bb5cb94eab06d5076facaef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Models/CharacterA_Buff_Avg.prefab
+  uploadId: 709448

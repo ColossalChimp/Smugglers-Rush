@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: acdb23063db2a464d94c33ad7d08725f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_ChickenLeg.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9916d908ea46e9d4f8dd96ee97e525b8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/Van.prefab
+  uploadId: 709448

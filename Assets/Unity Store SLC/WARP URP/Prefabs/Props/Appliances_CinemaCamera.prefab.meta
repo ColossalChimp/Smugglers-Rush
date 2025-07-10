@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 228a9448e27098d4b891c8e847ab5a15
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Appliances_CinemaCamera.prefab
+  uploadId: 709448

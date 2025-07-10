@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 41b8d8c50b0b30e44bde13c880545664
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Stairs_2x1x1.prefab
+  uploadId: 709448

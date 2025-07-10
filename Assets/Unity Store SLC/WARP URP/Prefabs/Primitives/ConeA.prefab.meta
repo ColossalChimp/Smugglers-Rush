@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1941943df6ea6b445917e79c99870b11
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/ConeA.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9a96b3232e37ee4eae27a6cbc959fed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Archway_1x2.prefab
+  uploadId: 709448

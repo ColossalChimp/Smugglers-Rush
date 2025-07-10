@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 34b6c834b13f74d428cc0a6fbf689c7f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Arrow.prefab
+  uploadId: 709448

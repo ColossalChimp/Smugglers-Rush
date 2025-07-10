@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4da72aa83c8c9e140b2f9c9e79e40508
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Computer_Mouse.prefab
+  uploadId: 709448

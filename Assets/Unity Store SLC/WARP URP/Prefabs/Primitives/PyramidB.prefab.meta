@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: daa01533859d0644eb41eb347768f84c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/PyramidB.prefab
+  uploadId: 709448

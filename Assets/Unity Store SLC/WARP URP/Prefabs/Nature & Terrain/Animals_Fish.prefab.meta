@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1bc258898bf12ae4580f93396790f56b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Animals_Fish.prefab
+  uploadId: 709448

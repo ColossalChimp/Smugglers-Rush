@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0f223e65ec427c4ea82c7583dd65ac5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Computer_CPU.prefab
+  uploadId: 709448

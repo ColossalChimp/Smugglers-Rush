@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8371a4590969e2c4db4a2bd584f54e3d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Bottle_Wine.prefab
+  uploadId: 709448

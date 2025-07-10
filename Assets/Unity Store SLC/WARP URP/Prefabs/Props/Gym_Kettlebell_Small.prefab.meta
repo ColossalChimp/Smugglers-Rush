@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61d83a08fa7e59a439edf6d8c1c2c358
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Gym_Kettlebell_Small.prefab
+  uploadId: 709448

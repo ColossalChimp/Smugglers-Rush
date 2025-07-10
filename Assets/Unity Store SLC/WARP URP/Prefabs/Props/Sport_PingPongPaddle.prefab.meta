@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d88dc8521c5edd49b78675c0a9f4e97
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sport_PingPongPaddle.prefab
+  uploadId: 709448

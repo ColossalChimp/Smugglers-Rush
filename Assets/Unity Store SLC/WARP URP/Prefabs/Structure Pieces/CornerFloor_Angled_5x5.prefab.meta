@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8404706209cf2df4cab59445d0f94f5a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/CornerFloor_Angled_5x5.prefab
+  uploadId: 709448

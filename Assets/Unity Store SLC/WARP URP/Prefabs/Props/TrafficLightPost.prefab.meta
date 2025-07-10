@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec8085e19804f5f47a1015eb7be371f6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/TrafficLightPost.prefab
+  uploadId: 709448

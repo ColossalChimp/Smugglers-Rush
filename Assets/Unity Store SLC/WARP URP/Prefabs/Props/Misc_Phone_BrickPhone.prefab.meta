@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1e2c309d489d7b4ea95a15eb9dc7ee3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Phone_BrickPhone.prefab
+  uploadId: 709448

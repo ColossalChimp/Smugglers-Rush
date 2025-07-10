@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 455ac570b659e8645ab58c86827c9717
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sport_BowlingBall.prefab
+  uploadId: 709448

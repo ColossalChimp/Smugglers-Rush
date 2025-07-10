@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1cf207b3a04bb01468baf3a73331c965
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Gym_Bench.prefab
+  uploadId: 709448

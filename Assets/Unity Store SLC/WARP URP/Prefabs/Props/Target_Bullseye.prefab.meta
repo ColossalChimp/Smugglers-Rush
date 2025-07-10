@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04dac9b5e10d1534a968fdb52dca3633
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Target_Bullseye.prefab
+  uploadId: 709448

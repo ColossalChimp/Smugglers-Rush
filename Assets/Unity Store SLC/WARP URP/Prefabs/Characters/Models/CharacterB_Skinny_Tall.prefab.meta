@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8cd0408da43f10b40883433b6f089b92
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Models/CharacterB_Skinny_Tall.prefab
+  uploadId: 709448

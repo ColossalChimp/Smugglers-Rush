@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 44e72fe1ef0ec4b4ebe0232a43fc2eee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterA_TennisHat_Avg.prefab
+  uploadId: 709448

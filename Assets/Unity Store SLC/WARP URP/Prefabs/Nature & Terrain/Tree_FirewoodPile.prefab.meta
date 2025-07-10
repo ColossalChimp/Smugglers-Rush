@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 46acd7d9c6930b343a6a1f1d656ccb69
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Tree_FirewoodPile.prefab
+  uploadId: 709448

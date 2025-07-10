@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b8dbae98dc936249a00b77721a1bc08
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/StairsRail_Corner_CrossShaped_1x1x1.prefab
+  uploadId: 709448

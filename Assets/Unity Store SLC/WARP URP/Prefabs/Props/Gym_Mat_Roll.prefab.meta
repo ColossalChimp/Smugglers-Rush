@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 033b3bb74b1bcc6408162a0fc391cb86
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Gym_Mat_Roll.prefab
+  uploadId: 709448

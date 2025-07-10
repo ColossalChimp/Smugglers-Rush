@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4575c08cb661f3747bd00708d04509c4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sign_Triangle.prefab
+  uploadId: 709448

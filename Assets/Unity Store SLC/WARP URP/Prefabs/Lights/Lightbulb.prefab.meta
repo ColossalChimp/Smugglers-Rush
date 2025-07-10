@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c6e495721904ae41be9c3153f082e65
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Lights/Lightbulb.prefab
+  uploadId: 709448

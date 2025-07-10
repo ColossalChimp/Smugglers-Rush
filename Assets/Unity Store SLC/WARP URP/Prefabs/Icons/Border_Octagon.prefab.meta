@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d9942d4a1faa0b4d856c185d5f3f731
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Border_Octagon.prefab
+  uploadId: 709448

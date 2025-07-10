@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5bae55b6b5f89cc4193a1d8c823d43ae
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Weapons/SwordSheathe.prefab
+  uploadId: 709448

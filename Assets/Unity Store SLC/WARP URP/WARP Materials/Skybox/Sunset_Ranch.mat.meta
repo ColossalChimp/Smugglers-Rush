@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 003b8df8956976b4fa91fa1085fc0571
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/WARP Materials/Skybox/Sunset_Ranch.mat
+  uploadId: 709448

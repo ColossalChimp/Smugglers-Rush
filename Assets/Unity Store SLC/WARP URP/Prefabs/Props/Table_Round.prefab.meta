@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e56a1b9ed9dbfc46968a846958baf66
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Table_Round.prefab
+  uploadId: 709448

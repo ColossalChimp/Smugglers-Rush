@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7b00381a4ba675141b63972a15d903d9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Containers_Crate_Open.prefab
+  uploadId: 709448

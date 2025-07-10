@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17951449b2ecc2f42b1a6f5e7f1c1df4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Bookshelf_Wide_Books.prefab
+  uploadId: 709448

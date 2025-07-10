@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6bd3d731b015e1945afd9b7dd63a90fd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/Rowboat.prefab
+  uploadId: 709448

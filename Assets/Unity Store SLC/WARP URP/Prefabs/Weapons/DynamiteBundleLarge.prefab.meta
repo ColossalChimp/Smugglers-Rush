@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff4d4031075e68445a64323087c97ba9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Weapons/DynamiteBundleLarge.prefab
+  uploadId: 709448

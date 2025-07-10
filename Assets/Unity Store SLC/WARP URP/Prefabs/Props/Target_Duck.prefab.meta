@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c9d2a62b7f40e7647a51ddc5227a4a78
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Target_Duck.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e51ee84c301edcd42b9944a2b9da369b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Ramp_65_Middle.prefab
+  uploadId: 709448

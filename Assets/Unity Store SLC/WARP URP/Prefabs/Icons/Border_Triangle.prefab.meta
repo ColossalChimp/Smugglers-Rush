@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc85c88589ba88e419317959aba88eb7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Border_Triangle.prefab
+  uploadId: 709448

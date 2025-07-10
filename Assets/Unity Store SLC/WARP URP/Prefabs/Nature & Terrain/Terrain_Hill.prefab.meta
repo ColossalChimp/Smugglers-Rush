@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22440bb2f88d7fa419ddfd388c53790b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Terrain_Hill.prefab
+  uploadId: 709448

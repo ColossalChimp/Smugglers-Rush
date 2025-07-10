@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 29f8b2073446ff94f8fc426a406e7c2d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Kitchenware_Spatula.prefab
+  uploadId: 709448

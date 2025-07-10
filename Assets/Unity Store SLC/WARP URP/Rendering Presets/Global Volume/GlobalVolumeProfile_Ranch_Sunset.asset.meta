@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2977f3eab48710438cf7c9e8a5f49f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Rendering Presets/Global Volume/GlobalVolumeProfile_Ranch_Sunset.asset
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f239b66c9cc07af4cb5df7971e94a9b4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/StairsRail_Post_Single_1x1x1.prefab
+  uploadId: 709448

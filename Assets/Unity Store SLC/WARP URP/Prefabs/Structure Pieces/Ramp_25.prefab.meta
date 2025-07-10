@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2fed8e0f921586a4cbdc9b4ecaaa87d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Ramp_25.prefab
+  uploadId: 709448

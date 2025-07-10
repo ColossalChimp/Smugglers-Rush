@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c546735d92f14c4d8419177fb4bddac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Gym_Dumbbell_Medium.prefab
+  uploadId: 709448

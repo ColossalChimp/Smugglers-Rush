@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f836917bb9f554246ba9e3d6d85ada13
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Gym_Barbell_Medium.prefab
+  uploadId: 709448

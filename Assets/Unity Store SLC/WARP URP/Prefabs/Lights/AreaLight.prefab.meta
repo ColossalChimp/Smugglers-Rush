@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f4bb54dfb3b32f04dacb593c0dadd362
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Lights/AreaLight.prefab
+  uploadId: 709448

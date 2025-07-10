@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e425e4fdbbb1ec44ebb0af51ffe9a93c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Computer_Keyboard.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 28c1ebda61d41b8459c7dd5f9e39f277
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/CylinderA.prefab
+  uploadId: 709448

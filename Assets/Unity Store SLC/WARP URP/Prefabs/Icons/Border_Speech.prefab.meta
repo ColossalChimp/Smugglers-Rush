@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22363b909c9bd724593ba4cf185458e9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Border_Speech.prefab
+  uploadId: 709448

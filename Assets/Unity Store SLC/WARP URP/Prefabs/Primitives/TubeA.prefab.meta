@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa5884b12254cff43ab3722e299f97ee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/TubeA.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 90a59c62ef63f9444917ce336a455a6a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Terrain_MountainB.prefab
+  uploadId: 709448

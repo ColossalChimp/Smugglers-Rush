@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 715d52854e54fc74fa43432ce527a97f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Radioactive.prefab
+  uploadId: 709448

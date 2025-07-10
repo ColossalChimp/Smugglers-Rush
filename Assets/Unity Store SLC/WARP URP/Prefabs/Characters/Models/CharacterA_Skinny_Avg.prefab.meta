@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 963e70b18c83a9a48bdff3a24f3748db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Models/CharacterA_Skinny_Avg.prefab
+  uploadId: 709448

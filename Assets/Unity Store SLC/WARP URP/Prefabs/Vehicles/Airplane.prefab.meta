@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa8d7a3df94f1b04d8ebfbfcbded60b2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/Airplane.prefab
+  uploadId: 709448

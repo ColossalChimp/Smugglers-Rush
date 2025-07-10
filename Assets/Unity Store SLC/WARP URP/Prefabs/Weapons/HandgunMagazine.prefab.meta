@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c8e47baad6e71e94d9d238014cddd625
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Weapons/HandgunMagazine.prefab
+  uploadId: 709448

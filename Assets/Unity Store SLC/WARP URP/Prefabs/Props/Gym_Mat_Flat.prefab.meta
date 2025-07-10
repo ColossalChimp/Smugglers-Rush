@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d7a73f9c6594aaf4286aa566f783abf2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Gym_Mat_Flat.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 641c36d3a46925a42b25070c1f68e6db
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Target_Torso.prefab
+  uploadId: 709448

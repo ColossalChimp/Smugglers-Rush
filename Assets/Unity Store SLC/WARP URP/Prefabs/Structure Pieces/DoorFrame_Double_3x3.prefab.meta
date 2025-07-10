@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: efa62d3640493ed44a6dfdc2d918bb69
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/DoorFrame_Double_3x3.prefab
+  uploadId: 709448

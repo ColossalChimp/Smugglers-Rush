@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed0e53c97bfb984408dde95199ee135c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Weapons/AssaultRifle.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c4f4f1a51b2ee6499844e4e412d2870
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sport_AmericanFootball.prefab
+  uploadId: 709448

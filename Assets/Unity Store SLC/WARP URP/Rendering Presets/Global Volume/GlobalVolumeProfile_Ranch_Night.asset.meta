@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bcc6c3cc393617644886c776beef56ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Rendering Presets/Global Volume/GlobalVolumeProfile_Ranch_Night.asset
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d21f29624251ff438c6cdd22038a571
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/Jetski.prefab
+  uploadId: 709448

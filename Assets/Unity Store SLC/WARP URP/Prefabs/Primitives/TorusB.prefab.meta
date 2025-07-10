@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f0cfb68733658ff44846eb24003e19b9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/TorusB.prefab
+  uploadId: 709448

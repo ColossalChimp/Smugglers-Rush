@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1bbfc006596c6e649939f029b874a823
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/TrafficLightQuadRight.prefab
+  uploadId: 709448

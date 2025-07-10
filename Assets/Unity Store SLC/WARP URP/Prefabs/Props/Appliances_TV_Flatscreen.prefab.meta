@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9e56eeed7769dfd48ace8d356acb7e29
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Appliances_TV_Flatscreen.prefab
+  uploadId: 709448

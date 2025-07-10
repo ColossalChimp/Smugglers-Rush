@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d44474853877eb4ea0cb00cdeb1fdd9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Appliances_Radio.prefab
+  uploadId: 709448

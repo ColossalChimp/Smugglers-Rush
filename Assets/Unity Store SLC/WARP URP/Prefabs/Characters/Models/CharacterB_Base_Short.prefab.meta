@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f79761d2b75c2b043b69a0e1a0d47556
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Models/CharacterB_Base_Short.prefab
+  uploadId: 709448

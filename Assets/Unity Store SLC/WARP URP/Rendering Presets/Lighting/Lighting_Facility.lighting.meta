@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9894987e63267954ab67c0bc9bc361ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Rendering Presets/Lighting/Lighting_Facility.lighting
+  uploadId: 709448

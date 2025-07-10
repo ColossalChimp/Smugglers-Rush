@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35c94b3e8a4b199498a71e51a7392a0e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Lights/Spotlight.prefab
+  uploadId: 709448

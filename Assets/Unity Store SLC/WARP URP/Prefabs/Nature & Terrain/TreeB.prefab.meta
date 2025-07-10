@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0d992e8caf3ca940b4a4142e3f1b6e6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/TreeB.prefab
+  uploadId: 709448

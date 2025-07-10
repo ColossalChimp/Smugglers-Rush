@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad76cf958ded17b4e8639f5b39b88560
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Kitchenware_Knife.prefab
+  uploadId: 709448

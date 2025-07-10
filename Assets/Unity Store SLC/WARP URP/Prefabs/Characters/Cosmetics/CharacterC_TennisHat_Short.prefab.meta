@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 46ee1ed67b11d5b478ee371b2b5a31e4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterC_TennisHat_Short.prefab
+  uploadId: 709448

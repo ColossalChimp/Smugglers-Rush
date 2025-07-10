@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb6ade542c99c8c4da8ad132b4c25489
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Bomb.prefab
+  uploadId: 709448

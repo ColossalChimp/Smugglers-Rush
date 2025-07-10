@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a0518f4ec3527954fa44b3eeb160592f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Gym_StationaryBike.prefab
+  uploadId: 709448

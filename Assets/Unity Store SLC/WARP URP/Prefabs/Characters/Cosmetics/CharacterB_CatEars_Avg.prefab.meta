@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54db586151de4154bb058f56af07a4ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterB_CatEars_Avg.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 859658d8d01a127418a642aed4245d77
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/TrainTrackCurve_45.prefab
+  uploadId: 709448

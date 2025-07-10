@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0ee24eee5d14c6b4da4a5e4bbb9c5046
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Lights/Lampshade.prefab
+  uploadId: 709448

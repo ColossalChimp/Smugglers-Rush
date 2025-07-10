@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0922d5ec33784014ea891c05916ca37d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Ellipsis.prefab
+  uploadId: 709448

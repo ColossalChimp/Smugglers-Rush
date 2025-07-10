@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 980d897c7c890544986401867fdb1d21
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Weapons/Grenade.prefab
+  uploadId: 709448

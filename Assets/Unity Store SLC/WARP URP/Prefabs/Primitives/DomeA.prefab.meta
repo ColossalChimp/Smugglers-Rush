@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45e1b44935c201548b669140dbb08bc3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/DomeA.prefab
+  uploadId: 709448

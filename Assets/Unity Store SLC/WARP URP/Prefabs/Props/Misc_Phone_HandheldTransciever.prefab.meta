@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 450c1182b4ac6a14e85d2b67c5c99d28
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Phone_HandheldTransciever.prefab
+  uploadId: 709448

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 544854b4c136049458feafc09dec4f8c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/WARP Standard Render Pipeline/Standard 3D Built-In Render
+    Pipeline Conversion Guide ReadMe.pdf
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d2acce5ebd7066d408947a05a8c22c25
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/TrafficLightStrut.prefab
+  uploadId: 709448

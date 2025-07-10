@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1046c909ed37cc48b87f0cb8bf76168
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/StairsFloating_6x1x3.prefab
+  uploadId: 709448

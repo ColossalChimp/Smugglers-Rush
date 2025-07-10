@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39e90dd6d9a91b84ebe71f0f964c9a2c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Models/CharacterB_Base_Avg.prefab
+  uploadId: 709448

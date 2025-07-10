@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d6b940714ac9f341a2815d2ca36c74f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Animals_Cat.prefab
+  uploadId: 709448

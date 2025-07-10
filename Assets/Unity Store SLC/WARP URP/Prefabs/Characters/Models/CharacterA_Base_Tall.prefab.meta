@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20e3a6a950d941c4098e9ad048585b30
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Models/CharacterA_Base_Tall.prefab
+  uploadId: 709448

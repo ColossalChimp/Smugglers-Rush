@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d8025a95caf2d748ac9fa9fa8ffd064
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sport_Goal.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e91842fefa430484e8695a059c10c1a1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterC_SweatBand_Short.prefab
+  uploadId: 709448

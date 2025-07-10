@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51d690d96f8e38245b1507c5f18a9940
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterB_Bow_Avg.prefab
+  uploadId: 709448

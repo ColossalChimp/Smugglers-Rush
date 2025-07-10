@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93fd60c4de66e6b4ebb9b8e6d6a88202
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterB_WitchHat_Avg.prefab
+  uploadId: 709448

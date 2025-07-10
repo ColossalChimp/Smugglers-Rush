@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 374d9c0a34a00b948be2b37f22a166c5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sign_Square.prefab
+  uploadId: 709448

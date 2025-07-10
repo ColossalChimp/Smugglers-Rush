@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e5c1da689f17fab4084a3e7e815e5c14
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Tree_Dead.prefab
+  uploadId: 709448

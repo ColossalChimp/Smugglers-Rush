@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 688601f4ea6c3664cb3b8f42f214b5f4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterA_WitchHat_Short.prefab
+  uploadId: 709448

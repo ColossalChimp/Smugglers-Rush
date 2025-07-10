@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 122924a6778d237448f85e789caf42fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/Locomotive.prefab
+  uploadId: 709448

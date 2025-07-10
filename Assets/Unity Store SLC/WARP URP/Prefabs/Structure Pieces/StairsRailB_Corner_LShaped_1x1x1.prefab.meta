@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33d925834c122bc4298c1e755adb5fd2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/StairsRailB_Corner_LShaped_1x1x1.prefab
+  uploadId: 709448

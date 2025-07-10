@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e829b031f4afbe74fb578e6725abc6ff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Fan_Small.prefab
+  uploadId: 709448

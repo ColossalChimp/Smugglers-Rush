@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f8bde321449263f4ab7a6b641466906d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Lever.prefab
+  uploadId: 709448

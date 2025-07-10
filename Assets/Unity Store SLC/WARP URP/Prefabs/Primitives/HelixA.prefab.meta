@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ecef7b5d05986144860e888b2574000
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Primitives/HelixA.prefab
+  uploadId: 709448

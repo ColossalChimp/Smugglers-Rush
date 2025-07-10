@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6dd890b6c9cf54409c83535e469e75b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/WARP Materials/WARP Colored/Material_Neutral.mat
+  uploadId: 709448

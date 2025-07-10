@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a67688e8396f2541a133e9f94ce5e0b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterA_Mohawk_Tall.prefab
+  uploadId: 709448

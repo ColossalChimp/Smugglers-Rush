@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ee4b56d3d55b3247b0307f2cf01f4f1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Book_Open.prefab
+  uploadId: 709448

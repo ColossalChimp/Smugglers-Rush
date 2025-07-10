@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2e6efab19b9fe745b0b834d59cd4068
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Stairs_LShaped_3x3x2.prefab
+  uploadId: 709448

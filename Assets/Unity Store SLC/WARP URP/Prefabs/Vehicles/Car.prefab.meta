@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b0e061d7194f2d448b654c31ef19a3b8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/Car.prefab
+  uploadId: 709448

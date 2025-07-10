@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 986c330f11e4197408135fd8a86ef65a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterC_WitchHat_Tall.prefab
+  uploadId: 709448

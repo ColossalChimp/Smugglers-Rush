@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e9b4c9eb53814743b4b9d64b6e36ee4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Flagpole_Straight.prefab
+  uploadId: 709448

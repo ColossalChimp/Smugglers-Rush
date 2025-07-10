@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 055db08c6f29e5a4a9332ed890fa84c5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/TrafficCone.prefab
+  uploadId: 709448

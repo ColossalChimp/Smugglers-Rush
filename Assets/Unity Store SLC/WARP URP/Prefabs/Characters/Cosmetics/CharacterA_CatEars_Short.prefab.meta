@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a434e0c61db1a04aab1b127d4978914
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterA_CatEars_Short.prefab
+  uploadId: 709448

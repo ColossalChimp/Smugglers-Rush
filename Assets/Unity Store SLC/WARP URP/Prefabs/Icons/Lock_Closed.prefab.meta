@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 25793461ed422b549b95debd278e0b71
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Icons/Lock_Closed.prefab
+  uploadId: 709448

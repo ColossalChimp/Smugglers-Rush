@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1fd8782f951ae1342a7e361765a8abcd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/Jetpack.prefab
+  uploadId: 709448

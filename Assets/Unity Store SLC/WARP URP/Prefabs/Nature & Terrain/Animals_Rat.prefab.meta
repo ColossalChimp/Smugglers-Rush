@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f60088263dc55e84881c65be00461cd3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Animals_Rat.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 464b57914c37ef2479b244ce918d65a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterA_TennisHat_Tall.prefab
+  uploadId: 709448

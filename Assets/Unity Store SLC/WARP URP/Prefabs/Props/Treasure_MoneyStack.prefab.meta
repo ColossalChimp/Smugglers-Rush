@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba758edef4e4f8a43a89b443a5430039
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Treasure_MoneyStack.prefab
+  uploadId: 709448

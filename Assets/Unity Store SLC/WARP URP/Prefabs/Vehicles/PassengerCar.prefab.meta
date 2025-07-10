@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 776abdd05549fe644a3572502f5a701c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/PassengerCar.prefab
+  uploadId: 709448

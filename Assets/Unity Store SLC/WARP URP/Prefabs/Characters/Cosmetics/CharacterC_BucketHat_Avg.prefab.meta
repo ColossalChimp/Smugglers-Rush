@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f84ff3132e102448881a420d7b3c791
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterC_BucketHat_Avg.prefab
+  uploadId: 709448

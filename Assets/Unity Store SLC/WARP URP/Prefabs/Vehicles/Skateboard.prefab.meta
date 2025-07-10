@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0fffe73c4867b964b984bb70962f8df4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Vehicles/Skateboard.prefab
+  uploadId: 709448

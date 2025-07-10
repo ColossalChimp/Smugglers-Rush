@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8adac94d7b8c6ed46831c566178600dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Bell.prefab
+  uploadId: 709448

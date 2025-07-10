@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 605a7c12e9d5fe646b9792e3d9e07102
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Button_Square.prefab
+  uploadId: 709448

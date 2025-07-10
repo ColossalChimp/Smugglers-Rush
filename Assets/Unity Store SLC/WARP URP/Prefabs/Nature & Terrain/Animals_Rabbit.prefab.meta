@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd4f8f0d8b851214bb315b55c2a64995
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Animals_Rabbit.prefab
+  uploadId: 709448

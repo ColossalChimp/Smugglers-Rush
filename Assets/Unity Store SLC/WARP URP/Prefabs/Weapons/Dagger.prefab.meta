@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 72d5c398f1477f54cb0da251002441c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Weapons/Dagger.prefab
+  uploadId: 709448

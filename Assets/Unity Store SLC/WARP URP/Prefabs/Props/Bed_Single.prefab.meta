@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bddb0810218b76345bc7ff40d0ac0c67
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Bed_Single.prefab
+  uploadId: 709448

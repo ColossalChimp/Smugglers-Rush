@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07cbd5f2253a9cf4597d74e775d5c754
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/FloorHole_Circular_1x1.prefab
+  uploadId: 709448

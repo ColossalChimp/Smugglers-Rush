@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: adc25fd241b5ca548b371b386c5c9155
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/CornerWall_Curved_1x1x2.prefab
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81999a1b1bca6b04bbeb30139d397c06
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Table_Desk.prefab
+  uploadId: 709448

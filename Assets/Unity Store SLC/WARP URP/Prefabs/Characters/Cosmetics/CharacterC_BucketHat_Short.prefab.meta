@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7a1ad1002bc6b94aa7b57e91c85683a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterC_BucketHat_Short.prefab
+  uploadId: 709448

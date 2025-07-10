@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a02415a8d8d70c4cb42043299fd92fc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterC_Helmet_Short.prefab
+  uploadId: 709448

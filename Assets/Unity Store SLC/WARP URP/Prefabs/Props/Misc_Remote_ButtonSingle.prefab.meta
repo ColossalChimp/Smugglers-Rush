@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 224f8c48f6b18904ebd1da209a262231
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Remote_ButtonSingle.prefab
+  uploadId: 709448

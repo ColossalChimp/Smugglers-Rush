@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14a7b2e013503c744bcc5cc0d2e559b8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Structure Pieces/Wall_3x1.prefab
+  uploadId: 709448

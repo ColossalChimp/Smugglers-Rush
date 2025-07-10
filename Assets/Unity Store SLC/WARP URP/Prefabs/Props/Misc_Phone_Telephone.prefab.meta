@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fd1d2d54e7baa70408d384f46e9aca35
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Phone_Telephone.prefab
+  uploadId: 709448

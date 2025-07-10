@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5aa3d9e5acbf60a4c94df843f6b67093
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Nature & Terrain/Terrain_MountainRidge.prefab
+  uploadId: 709448

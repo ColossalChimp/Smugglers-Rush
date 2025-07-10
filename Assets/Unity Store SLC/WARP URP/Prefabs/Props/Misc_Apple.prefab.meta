@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0718a7cac0e199c429e1be11d8aec893
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Misc_Apple.prefab
+  uploadId: 709448

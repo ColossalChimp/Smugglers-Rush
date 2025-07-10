@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e51b0a65fb719048ace26ee00840c4c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/WARP Scenes/WARP Facility.unity
+  uploadId: 709448

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 66f5e16ac2a42c94d9959ff82b2d53c1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Sign_NoEntry.prefab
+  uploadId: 709448

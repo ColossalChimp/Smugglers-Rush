@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8184d6101d871240a976c8ded478b6c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Weapons/BowQuiverFull.prefab
+  uploadId: 709448

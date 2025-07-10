@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1057b2509d911644bb7c7e4086efd49b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Bookshelf_Wide_Empty.prefab
+  uploadId: 709448

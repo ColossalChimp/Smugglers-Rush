@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 854b9ae700d50384293d2bb48522b6c4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Props/Gym_SquatRack.prefab
+  uploadId: 709448

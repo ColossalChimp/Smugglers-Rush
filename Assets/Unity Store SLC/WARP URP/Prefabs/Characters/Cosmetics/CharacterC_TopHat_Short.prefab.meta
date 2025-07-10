@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9baa9728685b51045994101d03c0c256
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 301095
+  packageName: 'WARP: Worldbuilding Assets for Rapid Prototyping'
+  packageVersion: 1.0
+  assetPath: Assets/WARP URP/Prefabs/Characters/Cosmetics/CharacterC_TopHat_Short.prefab
+  uploadId: 709448
